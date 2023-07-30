@@ -7,7 +7,7 @@
 		{"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable": 1,"quickSearch":1,"filterable":1,"jar": "./json/javdb.json"},
 		{"key": "lf_js_p2p","name": "磁力 | lf_p2p","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"api": "./lf_p2p_min.js","jar":"./jar/custom_spider.jar","ext": "18+"},
 		{"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lf_search2_min.js","jar":"./jar/custom_spider.jar"},
-	    {
+    {
       "key": "csp_WoGG",
       "name": "🎊玩偶┃阿里",
       "type": 3,
@@ -16,10 +16,32 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
-    }
-        
-        
-        
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/duboku.json"
+    } 
     ],
     "parses": [
         //{"name":"Json并发","type":2,"url":"Parallel"},
