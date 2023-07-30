@@ -11,17 +11,7 @@
 	{"key": "lf_js_p2p","name": "磁力 | lf_p2p","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"api": "./lf_p2p_min.js","jar":"./jar/custom_spider.jar","ext": "18+"},
 	{"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lf_search2_min.js","jar":"./jar/custom_spider.jar"},
 //饭太硬
-	{
-      "key": "csp_WoGG",
-      "name": "阿里云盘",
-      "type": 3,
-      "api": "csp_WoGG",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-      "jar": "./jar/fan.txt;md5;6cd8c412419113dfe01499b4e2fa7a92"
-    },
+	{"key": "csp_WoGG","name": "阿里云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "./jar/fan.txt;md5;6cd8c412419113dfe01499b4e2fa7a92"},
 //蜂蜜
     {
       "key": "泥巴",
