@@ -5,8 +5,8 @@
     ],
     "sites": [
 		{"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable": 1,"quickSearch":1,"filterable":1,"jar": "./json/javdb.json"},
-		{"key": "lf_js_p2p","name": "磁力 | lf_p2p","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"api": "./lf_p2p_min.js","jar":"./jar/custom_spider.jar",""ext": "18+"},
-		{"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lf_search2_min.js","jar":"./jar/custom_spider.jar",},
+		{"key": "lf_js_p2p","name": "磁力 | lf_p2p","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"api": "./lf_p2p_min.js","jar":"./jar/custom_spider.jar","ext": "18+"},
+		{"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lf_search2_min.js","jar":"./jar/custom_spider.jar"},
 	    {
       "key": "csp_WoGG",
       "name": "🎊玩偶┃阿里",
