@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "http://xhww.fun:63/小米/0726.jar;md5;38828453396367c68f1d65512b128567",
+    "spider": "./jar/xbpq.jar",
     "lives": [
     ],
     "sites": [
