@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/xbpq.jar;md5;38828453396367c68f1d65512b128567",
+    "spider": "http://xhww.fun:63/小米/0726.jar;md5;38828453396367c68f1d65512b128567",
     "lives": [],
     "sites": [
 	{"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable": 1,"quickSearch":1,"filterable":1,"jar": "./json/javdb.json"},
