@@ -1,5 +1,5 @@
 {
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+    "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
     "spider": "./jar/custom_spider.jar",
     "lives": [],
     "sites": [
