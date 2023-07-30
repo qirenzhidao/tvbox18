@@ -23,7 +23,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-	    "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
+      "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     },
     {
       "key": "星星",
@@ -32,7 +32,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-	    "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
+      "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     },
     {
       "key": "獨播",
@@ -42,7 +42,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/duboku.json",
-	    "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
+      "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     } 
     ],
     "parses": [
