@@ -22,7 +22,8 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+	    "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     },
     {
       "key": "星星",
@@ -30,7 +31,8 @@
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+	    "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     },
     {
       "key": "獨播",
@@ -39,7 +41,8 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "./json/duboku.json",
+	    "jar": "./jar/custom_spider_fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     } 
     ],
     "parses": [
