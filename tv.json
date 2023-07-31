@@ -24,6 +24,7 @@
 		"quickSearch": 0,
 		"jar": "./jar/fan.txt;md5;f54c7cb6bc2c2a2112f2511fc363be98"
     	},
+	{"key":"泥巴","name":"泥视频","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/fm.jar","ext":"1;socks5://192.168.66.3:7893"},
 
 //香雅晴
 	{"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"ext":"https://czzy.fun"},
@@ -34,12 +35,9 @@
 //	{"key": "lf_js_p2p","name": "🧲lf_p2p","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"api": "./lf_p2p_min.js","jar":"./jar/custom_spider.jar","ext": "18+"},
 //	{"key": "lf_js_search","name": "🧲lf_search","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lf_search2_min.js","jar":"./jar/custom_spider.jar"},
 //蜂蜜
-	{"key":"獨播","name":"獨播|🚀","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json","jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
-	"ext":"http://192.168.66.3:7893"},
-	{"key":"泥巴","name":"泥巴|🚀","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
-	"ext":"0;socks5://192.168.66.3:7893"},
-	{"key":"星星","name":"星星|🚀","type":3,"api":"csp_Star","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
-	"ext":"http://192.168.66.3:7893"}
+	{"key":"獨播","name":"獨播|🚀","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json","jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"},
+	{"key":"泥巴","name":"泥巴|🚀","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"},
+	{"key":"星星","name":"星星|🚀","type":3,"api":"csp_Star","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"}
     ],
     "parses": [
         //{"name":"Json并发","type":2,"url":"Parallel"},
