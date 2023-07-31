@@ -15,6 +15,15 @@
 		"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
 		"jar": "./jar/fan.txt;md5;f54c7cb6bc2c2a2112f2511fc363be98"
 	},
+    	{
+		"key": "cc",
+		"name": "请勿相信视频中任何广告",
+		"type": 3,
+		"api": "csp_XPath",
+		"searchable": 0,
+		"quickSearch": 0,
+		"jar": "./jar/fan.txt;md5;f54c7cb6bc2c2a2112f2511fc363be98"
+    	},
 
 //香雅晴
 	{"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"ext":"https://czzy.fun"},
