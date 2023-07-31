@@ -24,7 +24,7 @@
 		"quickSearch": 0,
 		"jar": "./jar/fan.txt;md5;f54c7cb6bc2c2a2112f2511fc363be98"
     	},
-	{"key":"獨播","name":"独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"jar":"./jar/fm.jar","ext":"./json/duboku.json$$$socks5://192.168.66.3:7893"},
+	{"key":"獨播","name":"独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"jar":"./jar/fm.jar","ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json$$$socks5://192.168.66.3:7893"},
 	{"key":"泥巴","name":"泥视频","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/fm.jar","ext":"0;socks5://192.168.66.3:7893"},
 	{"key":"星星","name":"星星","type":3,"api":"csp_Star","searchable":1,"changeable":0,"jar":"./jar/fm.jar","ext":"socks5://192.168.66.3:7893"},
 	
