@@ -35,10 +35,11 @@
 //	{"key": "lf_js_search","name": "🧲lf_search","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lf_search2_min.js","jar":"./jar/custom_spider.jar"},
 //蜂蜜
 	{"key":"獨播","name":"獨播|🚀","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json","jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
+	"ext":"http://192.168.66.3:7893"},
+	{"key":"泥巴","name":"泥巴|🚀","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
 	"ext":"0;socks5://192.168.66.3:7893"},
-	{"key":"泥巴","name":"泥巴|🚀","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"},
 	{"key":"星星","name":"星星|🚀","type":3,"api":"csp_Star","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620,
-	"ext":"0;socks5://192.168.66.3:7893"}
+	"ext":"http://192.168.66.3:7893"}
     ],
     "parses": [
         //{"name":"Json并发","type":2,"url":"Parallel"},
