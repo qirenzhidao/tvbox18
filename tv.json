@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
-    "spider": "./jar/fm.jar;md5;b3d75d1f335a00f04b0632266a0a6d7c",
+    "spider": "./jar/fm.jar",
 //    "lives": [],
     "sites": [
 //饭太硬
