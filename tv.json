@@ -31,7 +31,7 @@
 //香雅晴
 	{"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"ext":"https://czzy.fun"},
 	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},
-    	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1},
+    	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1}
 //网络收集
 //	{"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"jar": "./json/javdb.json"},
 //	{"key": "lf_js_p2p","name": "🧲lf_p2p","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"api": "./lf_p2p_min.js","jar":"./jar/custom_spider.jar","ext": "18+"},
