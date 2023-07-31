@@ -3,15 +3,6 @@
     "spider": "./jar/fm.jar;md5;b3d75d1f335a00f04b0632266a0a6d7c",
 //    "lives": [],
     "sites": [
-	{
-		"key": "哥哥",
-		"name": "🐬🐬🐬",
-		"type": 4,
-		"api": " https://private--t410.repl.co/gg",
-		"searchable": 1,
-		"changeable": 1
-	},
-
 //饭太硬
 	{
 		"key": "csp_WoGG",
@@ -49,6 +40,14 @@
 //	{"key":"獨播","name":"獨播|🚀","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json","jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"},
 //	{"key":"泥巴","name":"泥巴|🚀","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"},
 //	{"key":"星星","name":"星星|🚀","type":3,"api":"csp_Star","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"}
+	{
+		"key": "哥哥",
+		"name": "🐬🐬🐬",
+		"type": 4,
+		"api": " https://private--t410.repl.co/gg",
+		"searchable": 1,
+		"changeable": 1
+	}
     ],
 "doh":[
 	{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
@@ -57,7 +56,7 @@
 	{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
 	],
-	"rules":[
+"rules":[
 	{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 	{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
