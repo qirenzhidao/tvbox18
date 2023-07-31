@@ -11,6 +11,16 @@
 		"searchable": 1,
 		"changeable": 1
 	},
+	{
+		"key": "888解忧愁",
+		"name": "🎄",
+		"type": 4,
+		"api": "https://private--t410.repl.co/888",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"changeable": 0
+        },
 //饭太硬
 	{
 		"key": "csp_WoGG",
