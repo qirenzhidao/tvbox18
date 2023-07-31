@@ -3,6 +3,14 @@
     "spider": "./jar/custom_spider.jar",
 //    "lives": [],
     "sites": [
+	{
+		"key": "哥哥",
+		"name": "🐬",
+		"type": 4,
+		"api": " https://private--t410.repl.co/gg",
+		"searchable": 1,
+		"changeable": 1
+	},
 //饭太硬
 	{
 		"key": "csp_WoGG",
