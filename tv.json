@@ -26,31 +26,11 @@
     	},
 	{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json$$$socks5://192.168.66.3:7893"},
 	{"key":"泥巴","name":"🍋泥视频","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"ext":"1;socks5://192.168.66.3:7893"},
-	{"key":"星星","name":"🍒星星","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"socks5://192.168.66.3:7893"},
+	{"key":"星星","name":"🍒星星","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"socks5://192.168.66.3:7893"}
 //	{"key":"量子","name":"🐶量子","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.66.3:7893&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 //	{"key":"非凡","name":"🐙非凡","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.66.3:7893&url=http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 
-//香雅晴
-//	{"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"ext":"https://czzy.fun"},
-//	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},
-//    	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1}
-//网络收集
-//	{"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"jar": "./json/javdb.json"},
-//	{"key": "lf_js_p2p","name": "🧲lf_p2p","type": 3,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"api": "./lf_p2p_min.js","jar":"./jar/custom_spider.jar","ext": "18+"},
-//	{"key": "lf_js_search","name": "🧲lf_search","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lf_search2_min.js","jar":"./jar/custom_spider.jar"},
-//蜂蜜
-//	{"key":"獨播","name":"獨播|🚀","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json","jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"},
-//	{"key":"泥巴","name":"泥巴|🚀","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"},
-//	{"key":"星星","name":"星星|🚀","type":3,"api":"csp_Star","searchable":1,"changeable":0,"jar":"./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620"}
-	{
-		"key": "哥哥",
-		"name": "🐬🐬🐬",
-		"type": 4,
-		"api": " https://private--t410.repl.co/gg",
-		"searchable": 1,
-		"changeable": 1
-	}
-    ],
+],
 "parses": [
         //{"name":"Json并发","type":2,"url":"Parallel"},
         //{"name":"Json轮询","type":2,"url":"Sequence"},
