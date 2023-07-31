@@ -12,7 +12,8 @@
 		"changeable": 0,
 		"searchable": 1,
 		"quickSearch": 1,
-		"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+		"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+		"jar": "./jar/fan.txt;md5;f54c7cb6bc2c2a2112f2511fc363be98"
 	},
     	{
 		"key": "cc",
@@ -20,7 +21,8 @@
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 0,
-		"quickSearch": 0
+		"quickSearch": 0,
+		"jar": "./jar/fan.txt;md5;f54c7cb6bc2c2a2112f2511fc363be98"
     	},
 	{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json$$$socks5://192.168.66.3:7893"},
 	{"key":"泥巴","name":"🍋泥视频","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"ext":"1;socks5://192.168.66.3:7893"},
