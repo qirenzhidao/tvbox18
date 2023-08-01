@@ -4,8 +4,8 @@
     "sites": [
 //饭太硬
 	{
-		"key": "csp_WoGG|直连",
-		"name": "💿阿里云盘",
+		"key": "csp_WoGG",
+		"name": "💿阿里云盘|直连",
 		"type": 3,
 		"api": "csp_WoGG",
 		"changeable": 0,
