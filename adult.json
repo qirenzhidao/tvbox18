@@ -26,7 +26,9 @@
       "name": "Jable",
       "type": 3,
       "api": "csp_Jable",
-      "searchable": 1
+      "searchable": 1,
+      "ext":"$$$socks5://192.168.66.3:7893",
+      "jar":"./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14"
     },
     {
       "key": "MissAV",
@@ -40,7 +42,9 @@
       "name": "Supjav",
       "type": 3,
       "api": "csp_Supjav",
-      "searchable": 1
+      "searchable": 1,
+      "ext":"$$$socks5://192.168.66.3:7893",
+      "jar":"./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14"
     },
     {
       "key": "Hanime",
