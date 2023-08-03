@@ -10,6 +10,18 @@
       "searchable": 1
     },
     {
+      "key":"csp_JavDb",
+      "name":"🧲JavDb",
+      "type":3,
+      "api":"csp_JavDb",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":0,
+      "ext":"$$$socks5://192.168.66.3:7893",
+      "jar":"./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14"
+    },
+    {
       "key": "Jable",
       "name": "Jable",
       "type": 3,
