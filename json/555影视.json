@@ -10,9 +10,9 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://555dy5s.com/vodshow/{cateId}-----------.html",
+    "分类链接": "https://www.555dy5s.com/{cateId}.html",
     "分类名称": "电影&电视剧&综艺&动漫&福利",
-    "分类名称替换词": "1&2&3&4&124",
+    "分类名称替换词": "vodtype/1&vodtype/2&vodtype/3&vodtype/4&vodtype/124",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
