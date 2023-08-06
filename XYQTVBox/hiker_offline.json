@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/XYQTVBox/XYQTVBox.json",
+      "name": "香雅情本地(海阔推送)",
+      "time": "2023-04-19"
+    },
+    {
+      "url": "clan://localhost/XYQTVBox/drpy_js/drjs_config.json",
+      "name": "道长本地JS",
+      "time": "2023-04-16"
+    },
+    {
+      "url": "clan://localhost/XYQTVBox/Yoursmile/XC.json",
+      "name": "南风本地",
+      "time": "2023-04-19"
+    }
+  ]
+}
