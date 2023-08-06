@@ -32,14 +32,13 @@
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         
-        {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
-        {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+      
         {"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.fun"},
-        {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
+        
         {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Kunyu77","name":"🐞77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+        
         {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
+        
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
        
