@@ -3,7 +3,7 @@
     "spider": "./jar/pg20230731.jar;md5;b3d75d1f335a00f04b0632266a0a6d7c",
     "sites": [
 		{"key": "大米星球3",
-		"name": "♻大米星球",
+		"name": "♻大米星球|直连",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
@@ -22,8 +22,8 @@
 			"changeable": 0,
 			"searchable": 1,
 			"quickSearch": 1,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-			"jar":"http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/1.jar;md5;6e12873c628020196fe9400d1ef51f1c"
+			"ext": "https://tvb.vv67.repl.co/key/dtk.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+			"jar":"./jar/xiaomi.jar;md5;6e12873c628020196fe9400d1ef51f1c"
 		},
 			{
 			"key": "cc",
