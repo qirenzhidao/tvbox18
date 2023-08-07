@@ -2,6 +2,17 @@
     "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
     "spider": "./jar/pg20230731.jar;md5;b3d75d1f335a00f04b0632266a0a6d7c",
     "sites": [
+		{"key": "czzy2",
+		"name": "♻厂长资源",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+		"ext": {
+			"分类url": "https://czzy.fun/movie_bt/movie_bt_series/{cateId}/",
+			"分类": "国产剧$guochanju#电视剧$dianshiju#华语电影$huayudianying#电影$dyy",
+			"搜索url": "https://czzy.fun/?s={wd}"
+				}
+		},
 		{"key": "大米星球3",
 		"name": "♻大米星球",
 		"type": 3,
