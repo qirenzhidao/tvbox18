@@ -8,8 +8,8 @@
 		"api": "csp_XBPQ",
 		"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
 		"ext": {
-			"分类url": "https://czzy.fun/movie_bt/movie_bt_series/{cateId}/",
-			"分类": "站长推荐$zhanchangtuijian#电视剧$dianshiju#国产剧$guochanju#韩剧$hj#美剧$mj#日剧$rj#其他海外剧$hwj#电影$dyy#华语电影$huayudianying#印度电影$yindudianying#日本电影$ribendianying#欧美电影$meiguodianying#俄罗斯电影$eluosidianying#加拿大电影$jianadadianying#韩国电影$hanguodianying#动画$dohua",
+			"分类url": "https://czzy.fun/{cateId}",
+			"分类": "豆瓣电影top250$dbtop250#最新电影$zuixindianying#热映中$reyingzhong#电视剧$dsj#国产剧$gcj#动漫$dm#动漫剧场版$dongmanjuchangban#美剧$meijutt#韩剧$hanjutv#番剧$fanju",
 			"搜索url": "https://czzy.fun/?s={wd}"
 				}
 		},
