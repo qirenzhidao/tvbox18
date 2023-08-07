@@ -3,7 +3,7 @@
     "spider": "./jar/pg20230731.jar;md5;b3d75d1f335a00f04b0632266a0a6d7c",
     "sites": [
 		{"key": "大米星球3",
-		"name": "♻大米星球|直连",
+		"name": "♻大米星球",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
@@ -15,7 +15,7 @@
 		},
 	{
 			"key": "csp_WoGG2",
-			"name": "💿玩偶哥哥|直连",
+			"name": "📲哥哥",
 			"type": 3,
 			"api": "csp_WoGG",
 			"changeable": 0,
@@ -27,7 +27,7 @@
 	//饭太硬
 		{
 			"key": "csp_WoGG",
-			"name": "💿阿里云盘|直连",
+			"name": "💿阿里云盘",
 			"type": 3,
 			"api": "csp_WoGG",
 			"changeable": 0,
@@ -44,15 +44,15 @@
 			"searchable": 0,
 			"quickSearch": 0
 			},
-		{"key": "csp_XYQHiker_555影视","name":"🎄555影视|直连","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555影视.json","jar":"./jar/custom_spider.jar"},
+		{"key": "csp_XYQHiker_555影视","name":"🎄555影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555影视.json","jar":"./jar/custom_spider.jar"},
 		{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./json/duboku.json$$$socks5://192.168.66.3:7893"},
 		{"key":"泥巴","name":"🍋泥视频","type":3,"api":"csp_NiNi","searchable":1,"changeable":0,"ext":"1;socks5://192.168.66.3:7893"},
 		{"key":"星星","name":"🍒星星","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"socks5://192.168.66.3:7893"},
-		{"key":"csp_Czsapp","name":"🐞厂长资源|直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"jar":"./jar/custom_spider.jar","ext":"https://czzy.fun"},
-		{"key":"csp_Ikanbot","name": "👾Ikanbot|直连","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"jar":"./jar/custom_spider.jar"},
-		{"key":"csp_JianPian","name":"🔨荐片|直连","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider.jar"},
-		{"key": "csp_Mp4Mov","name": "🧲Mp4电影|直连","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/custom_spider.jar"},
-		{"key": "csp_New6v","name": "🧲新6V|直连","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar":"./jar/custom_spider.jar"}
+		{"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"jar":"./jar/custom_spider.jar","ext":"https://czzy.fun"},
+		{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"jar":"./jar/custom_spider.jar"},
+		{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/custom_spider.jar"},
+		{"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/custom_spider.jar"},
+		{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com","jar":"./jar/custom_spider.jar"}
     ],
 "doh":[
 	{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
