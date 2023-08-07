@@ -24,6 +24,7 @@
 			"ext": "https://tvb.vv67.repl.co/key/dtk.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
 			"jar":"./jar/fm.jar;md5;297b18b50f1aee760b966aa8e5df2bca"
 		},
+		{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/custom_spider.jar"},
 	//饭太硬
 		{
 			"key": "csp_WoGG",
