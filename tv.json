@@ -13,6 +13,17 @@
 			"搜索url": "http://web.hosts-dami.com/vodsearch/{wd}-------------.html"
 				}
 		},
+	{
+			"key": "csp_WoGG2",
+			"name": "💿玩偶哥哥|直连",
+			"type": 3,
+			"api": "csp_Wogg",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": "https://tvb.vv67.repl.co/key/dtk.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+			"jar":"./jar/fm.jar;md5;297b18b50f1aee760b966aa8e5df2bca"
+		},
 	//饭太硬
 		{
 			"key": "csp_WoGG",
@@ -22,7 +33,7 @@
 			"changeable": 0,
 			"searchable": 1,
 			"quickSearch": 1,
-			"ext": "https://tvb.vv67.repl.co/key/dtk.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
+			"ext": "./t+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
 			"jar":"http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/1.jar;md5;6e12873c628020196fe9400d1ef51f1c"
 		},
 			{
