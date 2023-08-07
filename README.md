@@ -1,4 +1,4 @@
-http://192.168.66.3:8080/#explorer
+接口URL: https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json
 
 # tvbox
 
