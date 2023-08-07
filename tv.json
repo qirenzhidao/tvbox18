@@ -17,7 +17,7 @@
 			"key": "csp_WoGG2",
 			"name": "💿玩偶哥哥|直连",
 			"type": 3,
-			"api": "csp_Wogg",
+			"api": "csp_WoGG",
 			"changeable": 0,
 			"searchable": 1,
 			"quickSearch": 1,
