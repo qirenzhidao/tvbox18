@@ -7,7 +7,8 @@
       "name": "18AV",
       "type": 3,
       "api": "csp_Eighteen",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key":"csp_JavDb",
@@ -17,14 +18,16 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "changeable":0
+      "changeable":0,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "Jable",
       "name": "Jable",
       "type": 3,
       "api": "csp_Jable",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "MissAV",
@@ -38,56 +41,64 @@
       "name": "Supjav",
       "type": 3,
       "api": "csp_Supjav",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "Hanime",
       "name": "Hanime",
       "type": 3,
       "api": "csp_Hanime",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "51smt4.xyz",
       "name": "成人01",
       "type": 1,
       "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "jcspcj8.com",
       "name": "成人02",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "bttcj.com",
       "name": "成人03",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "cjmygzy.com",
       "name": "成人04",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "91md.me",
       "name": "成人05",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "dadiapi.com",
       "name": "成人06",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
-      "searchable": 1
+      "searchable": 1,
+	  "ext":"$$$socks5://192.168.66.3:7893"
     },
     {
       "key": "secj8.com",
