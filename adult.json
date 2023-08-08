@@ -7,7 +7,6 @@
       "name": "18AV",
       "type": 3,
       "api": "csp_Eighteen",
-	  "ext":"socks5://192.168.66.3:7893",
       "searchable": 1
     },
     {
@@ -25,8 +24,7 @@
       "name": "Jable",
       "type": 3,
       "api": "csp_Jable",
-      "searchable": 1,
-      "ext":"socks5://192.168.66.3:7893"
+      "searchable": 1
     },
     {
       "key": "MissAV",
@@ -40,8 +38,7 @@
       "name": "Supjav",
       "type": 3,
       "api": "csp_Supjav",
-      "searchable": 1,
-      "ext":"socks5://192.168.66.3:7893"
+      "searchable": 1
     },
     {
       "key": "Hanime",
