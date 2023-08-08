@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fm.jar;md5;297b18b50f1aee760b966aa8e5df2bca",
+  "spider": "./jar/pg20230731.jar;md5;b3d75d1f335a00f04b0632266a0a6d7c",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
     {
@@ -18,8 +18,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "changeable":0,
-      "ext":"$$$socks5://192.168.66.3:7893"
+      "changeable":0
     },
     {
       "key": "Jable",
