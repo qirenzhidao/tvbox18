@@ -1,4 +1,4 @@
-接口URL: [https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json](https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json)
+接口URL: https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json
 
 # tvbox
 
