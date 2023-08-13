@@ -2,6 +2,7 @@
     "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
     "spider": "./jar/xyq0807.jar",
     "sites": [
+	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./t"},
 	{
 		"key": "555影视",
 		"name": "♻555影视",
