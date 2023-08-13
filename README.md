@@ -1,5 +1,5 @@
 接口URL: 
-https://fongmi.cachefly.net/qirenzhidao/tvbox18/main/tv.json
+https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json
 # tvbox
 
 ## 推荐fongmi的影视
