@@ -2,8 +2,9 @@
     "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
     "spider": "./jar/xyq0807.jar",
     "sites": [
+	{"key": "csp_XYQHiker_素白白影视","name":"❤️素白白影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白影视.json"},
 	{"key": "csp_XYQHiker_人人影视PRO","name":"👀人人影视PRO","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视PRO.json"},
-	{"key": "csp_XYQHiker_素白白影视","name":"🥬素白白影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白影视.json"},
+	
 	{
 		"key": "csp_WoGG2",
 		"name": "📲哥哥",
