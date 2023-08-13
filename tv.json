@@ -12,6 +12,7 @@
 			"分类url": "https://55dy5.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 			"分类": "电影$1#电视剧$2#动漫$4#综艺$3#福利$124",
 			"搜索url": "https://55dy5.vip/vodsearch/{wd}-------------.html"},
+			"线路标题": "module-tab-items-box hisSwiper&&<a",
 			"线路数组":"[排序:555蓝光>DM线路>非凡线路>无尽线路>天空线路]"
 	},
 	{"key": "csp_XYQHiker_素白白影视","name":"❤️素白白影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白影视.json"},
