@@ -9,9 +9,9 @@
 		"api": "csp_XBPQ",
 		"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
 		"ext": {
-			"分类url": "http://web.hosts-dami.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+			"分类url": "https://dami6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 			"分类": "电影$20#电视剧$21#动漫$22#综艺$23#福利$35",
-			"搜索url": "http://web.hosts-dami.com/vodsearch/{wd}-------------.html"}
+			"搜索url": "https://dami6.vip/vodsearch/{wd}-------------.html"}
 	},
 	{
 		"key": "csp_WoGG2",
