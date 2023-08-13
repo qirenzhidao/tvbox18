@@ -1,5 +1,5 @@
-接口URL: https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json
-
+接口URL: 
+https://fongmi.cachefly.net/qirenzhidao/tvbox18/main/tv.json
 # tvbox
 
 ## 推荐fongmi的影视
