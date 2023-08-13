@@ -3,17 +3,6 @@
     "spider": "./jar/fm.jar;md5;ade04649595fbcba3f376f6f22486d97",
     "sites": [
 	{
-		"key": "大米星球3",
-		"name": "♻大米星球",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar":"http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
-		"ext": {
-			"分类url": "https://dami6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-			"分类": "电影$20#电视剧$21#动漫$22#综艺$23#福利$35",
-			"搜索url": "https://dami6.vip/vodsearch/{wd}-------------.html"}
-	},
-	{
 		"key": "csp_WoGG2",
 		"name": "📲哥哥",
 		"type": 3,
