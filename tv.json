@@ -1,6 +1,32 @@
 {
     "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
     "spider": "./jar/xyq0807.jar",
+	"lives": [
+        {
+          "name": "直播",
+          "type": 0,
+          "playerType": 1,
+          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          //"url": "clan://XYQTVBox/live.txt",
+          //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          //"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+                    //"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]
+                    //"urls": ["proxy://do=live&type=txt&ext=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"]
+                    //"urls": ["proxy://do=live&type=txt&ext=http://dlq.gmqd.com/upload/20220921115985878587.txt"]
+                    "urls": ["proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"]
+                }
+            ]
+        }
+    ],
     "sites": [
 	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./t"},
 	{
