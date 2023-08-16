@@ -46,35 +46,35 @@
 	{"key": "csp_XYQHiker_素白白影视","name":"❤️素白白影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白影视.json"},
 	{"key": "csp_XYQHiker_人人影视PRO","name":"👀人人影视PRO","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视PRO.json"},
 	{ 
-        "key": "断视频", 
-        "name": "🐱猫断视频", 
-        "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-        "type": 3, 
-        "style":{ "type":"rect", "ratio":0.8 },
-        "api": "./js/sharenice_open.js"
-      },
+		"key": "断视频", 
+		"name": "🐱猫断视频", 
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"type": 3, 
+		"style":{ "type":"rect", "ratio":0.8 },
+		"api": "./js/sharenice_open.js"
+	},
 	{ 
-        "key": "酷云MV", 
-        "name": "🐱裤浴MV", 
-        "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-        "type": 3, 
-        "style":{ "type":"rect", "ratio":0.8 },
-        "api": "./js/kuqimv_open.js"
-	      },
-{ 
-        "key": "利维奥", 
-        "name": "🐱猫利维奥", 
-        "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-        "type": 3, 
-        "style":{ "type":"rect", "ratio":0.8 },
-        "api": "./js/libvio_open.js"
-      },
+		"key": "酷云MV", 
+		"name": "🐱裤浴MV", 
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"type": 3, 
+		"style":{ "type":"rect", "ratio":0.8 },
+		"api": "./js/kuqimv_open.js"
+	},
+	{ 
+		"key": "利维奥", 
+		"name": "🐱猫利维奥", 
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"type": 3, 
+		"style":{ "type":"rect", "ratio":0.8 },
+		"api": "./js/libvio_open.js"
+	},
 	{
 		"key": "csp_WoGG2",
 		"name": "📲哥哥",
