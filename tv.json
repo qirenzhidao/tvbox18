@@ -28,7 +28,6 @@
         }
     ],
     "sites": [
-	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./t"},
 	{
 		"key": "555影视",
 		"name": "♻555影视",
@@ -40,6 +39,7 @@
 			"分类": "电影$1#电视剧$2#动漫$4#综艺$3#福利$124",
 			"搜索url": "https://55dy5.vip/vodsearch/{wd}-------------.html"}
 	},
+	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./t"},
 	{"key": "csp_XYQHiker_素白白影视","name":"❤️素白白影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白影视.json"},
 	{"key": "csp_XYQHiker_人人影视PRO","name":"👀人人影视PRO","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视PRO.json"},
 	
