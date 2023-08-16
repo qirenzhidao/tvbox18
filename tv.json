@@ -65,7 +65,7 @@
 		"style":{ "type":"rect", "ratio":0.8 },
 		"api": "./js/kuqimv_open.js"
 	},
-	{ 
+/*	{ 
 		"key": "利维奥", 
 		"name": "🐱猫利维奥", 
 		"searchable": 1,
@@ -75,6 +75,7 @@
 		"style":{ "type":"rect", "ratio":0.8 },
 		"api": "./js/libvio_open.js"
 	},
+*/
 	{
 		"key": "csp_WoGG2",
 		"name": "📲哥哥",
