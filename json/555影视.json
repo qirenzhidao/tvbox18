@@ -11,8 +11,8 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://www.55dy1.vip/{cateId}.html",
-    "分类名称": "电影&电视剧&综艺&动漫&福利",
-    "分类名称替换词": "vodtype/1&vodtype/2&vodtype/3&vodtype/4&vodtype/124",
+    "分类名称": "奈飞美剧&电影&电视剧&综艺&动漫&成人福利",
+    "分类名称替换词": "label/netflix&vodtype/1&vodtype/2&vodtype/3&vodtype/4&vodtype/124",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
