@@ -37,9 +37,9 @@
 		"api": "csp_XBPQ",
 		"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
 		"ext": {
-			"分类url": "https://www.555hd4.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+			"分类url": "https://555dy5s.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 			"分类": "电影$1#电视剧$2#动漫$4#综艺$3#成人福利$124",
-			"搜索url": "https://www.555hd4.com/vodsearch/{wd}-------------.html"}
+			"搜索url": "https://555dy5s.com/vodsearch/{wd}-------------.html"}
 	},
 
 	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./t"},
