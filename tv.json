@@ -76,17 +76,6 @@
     "api": "./js/lf_pushagent_min.js"
 },
 	{
-		"key": "csp_WoGG",
-		"name": "💿阿里云盘",
-		"type": 3,
-		"api": "csp_WoGG",
-		"changeable": 0,
-		"searchable": 1,
-		"quickSearch": 1,
-		"ext": "./t+4k|fhd|auto$$$http://tvfan.xxooo.cf/",
-		"jar":"./jar/1.jar;md5;6e12873c628020196fe9400d1ef51f1c"
-	},
-	{
 		"key": "cc",
 		"name": "❌请勿相信视频中任何广告",
 		"type": 3,
