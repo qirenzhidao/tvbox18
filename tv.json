@@ -29,9 +29,9 @@
     ],
     "sites": [
 	{"key":"cat_js_czzy","name":"🐱厂长[CAT]","type": 3,"api":"./czzy_open.js","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_ng","name":"🐱南瓜[CAT]","type": 3,"api":"./ng_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_subaibai","name":"🐱素白白[CAT]","type": 3,"api":"./subaibai_open.js","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./t"},
 	
 	{
@@ -90,7 +90,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14",
-		"ext": "https://tvb.vv67.repl.co/key/dtk.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+		"ext": "https://tvb.vv67.repl.co/key/dtk.txt+4k|fhd|auto$$$http://wogg.xyz/"
 	},
 	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},	
 {
