@@ -95,7 +95,7 @@
 	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},	
 {
             "key": "lf_js_ikanbot",
-            "name": "点播 | lf_ikanbot",
+            "name": "👾lf_ikanbot",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -125,7 +125,7 @@
 	
 
 	//{"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable": 1,"quickSearch":1,"changeable": 0,"filterable":1,"ext":"https://www.cz01.cc"},
-	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},
+	//{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},
 	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"./json/duboku.json$$$socks5://192.168.66.3:7893"},
