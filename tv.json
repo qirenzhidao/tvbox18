@@ -48,11 +48,12 @@
 	{"key": "csp_XYQHiker_人人影视PRO","name":"👀人人影视PRO","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视PRO.json"},
 
 	{
-		"key": "csp_WoGG2",
+		"key": "csp_WoGG_2",
 		"name": "📲哥哥",
 		"type": 3,
 		"api": "csp_WoGG",
 		"changeable": 0,
+		"playerType":1,
 		"searchable": 1,
 		"quickSearch": 1,
 		"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;de0d7d8b7ef5c0d56aa0051e63aec89f",
