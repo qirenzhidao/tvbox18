@@ -2,6 +2,27 @@
   "spider": "./jar/fm.jar;md5;ade04649595fbcba3f376f6f22486d97",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
+  {
+            "key": "lf_js_search",
+            "name": "搜索 | lf_search",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./js/lf_search3_min.js"
+        },
+        {
+            "key": "lf_js_p2p",
+            "name": "磁力 | lf_p2p",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./js/lf_p2p2_min.js",
+            "ext": "18+"
+        },
     {
       "key": "18AV",
       "name": "18AV",
