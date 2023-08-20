@@ -514,15 +514,23 @@
       "searchable": 1
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
-    }
+    "key": "push_agent",
+    "name": "推送 | lf_push",
+    "type": 3,
+    "searchable": 0,
+    "changeable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "api": "./js/lf_pushagent_min.js",
+	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
+}
   ],
   "rules": [
+  {
+            "name": "磁力廣告",
+            "hosts": ["magnet"],
+            "regex": ["最 新", "直 播", "更 新"]
+        },
     {
       "name": "量子廣告",
       "hosts": [
