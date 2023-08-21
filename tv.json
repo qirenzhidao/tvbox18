@@ -90,14 +90,7 @@
 	},
 	
 	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
-	{
-      "key": "愛看",
-      "name": "🍒愛看",
-      "type": 3,
-      "api": "./js/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
+	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{
 		"key": "cc",
 		"name": "❌请勿相信视频中任何广告",
