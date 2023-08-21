@@ -90,27 +90,14 @@
 	},
 	
 	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
-{
-            "key": "lf_js_ikanbot",
-            "name": "👾lf_ikanbot",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/lf_ikanbot4_min.js"
-        },
-		{
-    "key": "push_agent",
-    "name": "推送 | lf_push",
-    "type": 3,
-    "searchable": 0,
-    "changeable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
-    "api": "./js/lf_pushagent_min.js",
-	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
-},
+	{
+      "key": "愛看",
+      "name": "🍒愛看",
+      "type": 3,
+      "api": "./js/ikanbot_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
 	{
 		"key": "cc",
 		"name": "❌请勿相信视频中任何广告",
@@ -128,6 +115,17 @@
 	{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","playerType":1,"searchable":1,"changeable":1,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"./json/duboku.json$$$socks5://192.168.66.3:7893"},
 	{"key":"泥巴","name":"🍋泥视频","type":3,"api":"csp_NiNi","playerType":1,"searchable":1,"changeable":0,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"1,socks5://192.168.66.3:7893"},
 	{"key":"星星","name":"🍒星星","type":3,"api":"csp_Star","playerType":1,"searchable":1,"changeable":0,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"$$$socks5://192.168.66.3:7893"},
+	{
+    "key": "push_agent",
+    "name": "推送 | lf_push",
+    "type": 3,
+    "searchable": 0,
+    "changeable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "api": "./js/lf_pushagent_min.js",
+	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
+},
 	{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext":"http://www.xb6v.com"}
     ],
 "doh":[
