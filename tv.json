@@ -76,19 +76,15 @@
             "api": "./js/lf_p2p2_min.js",
             "ext": ""
         },
-	{
-		"key": "csp_WoGG_2",
-		"name": "📲哥哥",
-		"type": 3,
-		"api": "csp_WoGG",
-		"changeable": 0,
-		"playerType":1,
-		"searchable": 1,
-		"quickSearch": 1,
-		"jar": "http://我不是.肥猫.love:63/Jar/pandaQ230803.jar;md5;F3186F44835CD46EF458744D797BD9CC",
-		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t+4k$$$http://wogg.xyz/"
-	},
-	
+		{
+      "key": "玩偶",
+      "name": "📲哥哥",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+	  "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0",
+      "changeable": 0
+    },
 	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{
