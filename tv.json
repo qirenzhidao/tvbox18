@@ -36,63 +36,63 @@
 	
 	{"key":"Cokemv","name":"🍎Cokemv","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
 	{
-		"key": "555影视",
-		"name": "♻555影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
-		"ext": {
-			"分类url": "https://555dy5s.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-			"分类": "电影$1#电视剧$2#动漫$4#综艺$3#成人福利$124",
-			"搜索url": "https://555dy5s.com/vodsearch/{wd}-------------.html"}
+	"key": "555影视",
+	"name": "♻555影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"jar":"./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+	"ext": {
+	"分类url": "https://555dy5s.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+	"分类": "电影$1#电视剧$2#动漫$4#综艺$3#成人福利$124",
+	"搜索url": "https://555dy5s.com/vodsearch/{wd}-------------.html"}
 	},
 	{"key": "csp_XYQHiker_人人影视PRO","name":"👀人人影视PRO","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/人人影视PRO.json"},
-{
-      "key": "feifei67.com",
-      "name": "🍉资源采集",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 1
-    },
 	{
-            "key": "lf_js_search",
-            "name": "😈影视推荐",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "./js/lf_search3_min.js"
-        },
-        {
-            "key": "lf_js_p2p",
-            "name": "🍷磁力 | p2p",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./js/lf_p2p2_min.js",
-            "ext": ""
-        },
-		{
-      "key": "玩偶",
-      "name": "📲哥哥",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-	  "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0",
-      "changeable": 1
-    },
+	"key": "feifei67.com",
+	"name": "🍉资源采集",
+	"type": 1,
+	"api": "http://www.feifei67.com/api.php/provide/vod/",
+	"searchable": 1
+	},
+	{
+	"key": "lf_js_search",
+	"name": "😈影视推荐",
+	"type": 3,
+	"searchable": 0,
+	"changeable": 1,
+	"quickSearch": 0,
+	"filterable": 0,
+	"api": "./js/lf_search3_min.js"
+	},
+	{
+	"key": "lf_js_p2p",
+	"name": "🍷磁力 | p2p",
+	"type": 3,
+	"searchable": 1,
+	"changeable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"api": "./js/lf_p2p2_min.js",
+	"ext": ""
+	},
+	{
+	"key": "玩偶",
+	"name": "📲哥哥",
+	"type": 3,
+	"api": "csp_Wogg",
+	"searchable": 1,
+	"jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0",
+	"changeable": 1
+	},
 	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{
-		"key": "cc",
-		"name": "❌请勿相信视频中任何广告",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 0,
-		"quickSearch": 0
+	"key": "cc",
+	"name": "❌请勿相信视频中任何广告",
+	"type": 3,
+	"api": "csp_XPath",
+	"searchable": 0,
+	"quickSearch": 0
 	},
 	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"changeable": 0,"filterable":1},
 	{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"},
@@ -103,16 +103,16 @@
 	{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","playerType":1,"searchable":1,"changeable":1,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"./json/duboku.json$$$socks5://192.168.66.3:7893"},
 	{"key":"泥巴","name":"🍋泥视频","type":3,"api":"csp_NiNi","playerType":1,"searchable":1,"changeable":1,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"1,socks5://192.168.66.3:7893"},
 	{
-    "key": "push_agent",
-    "name": "🍷推送 | push",
-    "type": 3,
-    "searchable": 0,
-    "changeable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
-    "api": "./js/lf_pushagent_min.js",
+	"key": "push_agent",
+	"name": "🍷推送 | push",
+	"type": 3,
+	"searchable": 0,
+	"changeable": 0,
+	"quickSearch": 0,
+	"filterable": 0,
+	"api": "./js/lf_pushagent_min.js",
 	"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
-}
+	}
 	//{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext":"http://www.xb6v.com"}
     ],
 "doh":[
