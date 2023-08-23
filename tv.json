@@ -33,7 +33,16 @@
 	{"key":"cat_js_ng","name":"🐱南瓜[CAT]","type": 3,"api":"./ng_open.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_subaibai","name":"🐱素白白[CAT]","type": 3,"api":"./subaibai_open.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-	
+	{
+	"key": "lf_js_ikanbot",
+	"name": "🍄爱看BOT",
+	"type": 3,
+	"searchable": 1,
+	"changeable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"api": "./js/lf_ikanbot.js"
+	},
 	{"key":"Cokemv","name":"🍎Cokemv","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
 	{
 	"key": "555影视",
@@ -85,7 +94,7 @@
 	"changeable": 1
 	},
 	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
-	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 	{
 	"key": "cc",
 	"name": "❌请勿相信视频中任何广告",
