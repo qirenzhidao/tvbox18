@@ -34,14 +34,12 @@
 	{"key":"cat_js_subaibai","name":"🐱素白白[CAT]","type": 3,"api":"./subaibai_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{
-	"key": "lf_js_ikanbot",
-	"name": "🍄爱看BOT",
+	"key": "愛看",
+	"name": "🍄愛看[CAT]",
 	"type": 3,
+	"api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
 	"searchable": 1,
-	"changeable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"api": "./js/lf_ikanbot.js"
+	"changeable": 1
 	},
 	{"key":"Cokemv","name":"🍎Cokemv","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
 	{
