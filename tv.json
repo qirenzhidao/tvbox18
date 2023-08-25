@@ -35,7 +35,7 @@
 	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{
 	"key": "cat_js_ikanbot",
-	"name": "👑爱看BOT[CAT]",
+	"name": "🐱爱看BOT[CAT]",
 	"type": 3,
 	"searchable": 1,
 	"changeable": 1,
