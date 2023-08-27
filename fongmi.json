@@ -9,7 +9,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
-	  "ext":"file://alitoken.txt"
+	  "ext":"./token.txt"
     },
     {
       "key": "push_agent",
