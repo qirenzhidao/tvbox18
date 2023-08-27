@@ -1,5 +1,5 @@
 {
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;0b81c0ac4917ca94b8446758d09227e5",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e74a5b532b6b82b0c5ed1eab450b96ae",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 "sites":[
@@ -25,7 +25,8 @@
 {"key":"哈喽","name":"✌哈喽┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"陌陌","name":"🍄陌陌┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 {"key":"奇奇","name":"🍓奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
-{"key":"酷酷","name":"💡酷影┃App","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"酷酷","name":"💡酷酷┃App","type":3,"api":"csp_AppYsV2","searchable": 1, "quickSearch": 1, "changeable":1, "ext": "http://cms.realdou.cn:35264/api.php/app/"},
+//{"key":"酷影","name":"💡酷影┃App","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"Vofl","name":"🎈VOF┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
