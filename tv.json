@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "./jar/xyq0807.jar",
+    "spider": "./jar/xyq0807.jar;md5;f86699b3d256291716d8b31114f49a8e",
 	"lives": [
         {
           "name": "直播",
@@ -92,7 +92,7 @@
 	"jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0",
 	"changeable": 1
 	},
-	{"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
+	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 
 	{
 	"key": "cc",
