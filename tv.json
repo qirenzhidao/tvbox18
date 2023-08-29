@@ -89,8 +89,12 @@
 	"type": 3,
 	"api": "csp_Wogg",
 	"searchable": 1,
-	"jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0",
-	"changeable": 1
+	"changeable": 0,
+	"jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ee906871fa3ef19a87da0fad4947e36b",
+	"ext": {
+	"token": "https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t",
+	"filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+	}
 	},
 	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 
