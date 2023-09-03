@@ -29,7 +29,7 @@
     ],
     "sites": [
 	{"key":"cat_js_ng","name":"🐱南瓜[CAT]","type": 3,"api":"./ng_open.js","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"},
+	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file///XYQTVBox/alitoken.txt"},
 	{"key":"cat_js_czzy","name":"🐱厂长[CAT]","type": 3,"api":"./czzy_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_subaibai","name":"🐱素白白[CAT]","type": 3,"api":"./subaibai_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
@@ -83,7 +83,7 @@
 	"api": "./js/lf_p2p2_min.js",
 	"ext": ""
 	},
-	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file///XYQTVBox/alitoken.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;51f99bdb067984f87ee16dc026da79d2"},
+	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file///XYQTVBox/alitoken.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4d1c769684cc9b85f8adf54f8b43abb6"},
 	
 	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 
