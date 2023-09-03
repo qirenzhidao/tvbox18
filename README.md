@@ -1,4 +1,6 @@
-# 接口URL(合集)：https://ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/tvbox.json
+# 接口URL(合集)：
+
+https://ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/tvbox.json
 
 # 香雅情 已更新至最新2023.9.1
 香雅情 在线接口 https://ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/XYQTVBox.json
