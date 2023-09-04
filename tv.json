@@ -96,8 +96,7 @@
 	//{"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"./json/duboku.json"},
 	{"key":"泥巴","name":"🍋泥视频","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"1"},
-	{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"}
-	//{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar": "./XYQTVBox/custom_spider.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+	{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 	{
 	"key": "cc",
 	"name": "❌请勿相信视频中任何广告",
