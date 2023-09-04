@@ -1,10 +1,3 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.17.10</center>
-</body>
-</html>
 {
   "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0cd8dd32e89511058fd8e6bceb586a28",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
