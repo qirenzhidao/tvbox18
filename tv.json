@@ -29,7 +29,7 @@
     ],
     "sites": [
 	{"key":"cat_js_ng","name":"🐱南瓜[CAT]","type": 3,"api":"./ng_open.js","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file///XYQTVBox/alitoken.txt"},
+	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 	{"key":"cat_js_czzy","name":"🐱厂长[CAT]","type": 3,"api":"./czzy_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_subaibai","name":"🐱素白白[CAT]","type": 3,"api":"./subaibai_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
