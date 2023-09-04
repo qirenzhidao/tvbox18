@@ -29,7 +29,7 @@
     ],
     "sites": [
 	{"key":"cat_js_ng","name":"🐱南瓜[CAT]","type": 3,"api":"./ng_open.js","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQTVBox/alitoken.txt"},
+	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"./wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 	{"key":"cat_js_czzy","name":"🐱厂长[CAT]","type": 3,"api":"./czzy_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_subaibai","name":"🐱素白白[CAT]","type": 3,"api":"./subaibai_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"./kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
@@ -83,21 +83,21 @@
 	"api": "./js/lf_p2p2_min.js",
 	"ext": ""
 	},
-	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./XYQTVBox/alitoken.txt+4k|auto|fhd$$$http://www.wogg.xyz/","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4d1c769684cc9b85f8adf54f8b43abb6"},
+	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4d1c769684cc9b85f8adf54f8b43abb6"},
 	
 	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 
 	
 	//{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"changeable": 0,"filterable":1},
-	{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQTVBox/alitoken.txt"},
-	{"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQTVBox/alitoken.txt"},
-	{"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQTVBox/alitoken.txt"},
-	{"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQTVBox/alitoken.txt"},
+	{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+	{"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+	{"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+	{"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 	//{"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"獨播","name":"🍉独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"./json/duboku.json"},
 	{"key":"泥巴","name":"🍋泥视频","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"jar": "./jar/fm202383.jar;md5;da5b7063792deeda9e33c6189c6eba14","ext":"1"},
-	{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-	//{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./XYQTVBox/alitoken.txt+4k|auto|fhd"},
+	{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+	//{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 	{
 	"key": "cc",
 	"name": "❌请勿相信视频中任何广告",
