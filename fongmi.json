@@ -1,119 +1,28 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-sjc10051-SJC 1693897226 653828638</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.17.10</center>
+</body>
 </html>
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-sjc10051-SJC 1693897234 653860469</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.17.10</center>
+</body>
 </html>
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-sjc10051-SJC 1693897241 653887620</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.17.10</center>
+</body>
 </html>
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-sjc10051-SJC 1693897247 653911431</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-sjc10051-SJC 1693897254 653936017</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-sjc10051-SJC 1693897260 653963810</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 Backend is unhealthy</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend is unhealthy</h1>
-    <p>Backend is unhealthy</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-sjc10051-SJC 1693897269 653997054</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.17.10</center>
+</body>
 </html>
