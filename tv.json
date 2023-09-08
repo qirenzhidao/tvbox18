@@ -1,6 +1,7 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
-    "spider": "./XYQTVBox/custom_spider.jar;md5;d4a66c0f42281a803c8bc048240789cd",
+    //"spider": "./XYQTVBox/custom_spider.jar;md5;d4a66c0f42281a803c8bc048240789cd",
+	"spider": "./jar/xyq0801.jar",
 	"lives": [
         {
           "name": "直播",
