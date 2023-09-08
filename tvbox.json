@@ -2,7 +2,7 @@
 "urls":[
 {
 "url":"https://ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json",
-"name":"优质"
+"name":"南瓜"
 },
 {
 "url":"https://ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/fan.json",
@@ -15,6 +15,10 @@
 {
 "url":"https://ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/XYQTVBox.json",
 "name":"香雅情"
+},
+{
+"url":"https://ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/drjs_config.json",
+"name":"道长"
 }
 ]
 }
