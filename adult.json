@@ -10,7 +10,7 @@
 	//{"key": "ikunzyapi","name": "爱坤","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
 	//{"key": "feisuzyapi","name": "飞速","type": 1,"api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1},
 	{"key": "hav ","name": "黄艾薇 ","type": 0,"api": "https://www.pgxdy.com/api/xml.php ","searchable": 1,"changeable": 1},
-	{"key": "apilj","name": "辣椒","type": 3,"api": "https://apilj.com/api.php/provide/vod/at/json","searchable": 1,"changeable": 1},
+	{"key": "apilj","name": "辣椒","type":1,"api": "https://apilj.com/api.php/provide/vod/at/json","searchable": 1,"changeable": 1},
 	{"key":"timizy","name":"甜蜜资源","type":1,"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 	
 	
