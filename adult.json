@@ -6,7 +6,24 @@
 	{"key": "ysj ","name": "饮水机 ","type": 0,"api": "https://www.xrbsp.com/api/xml.php ","searchable": 1,"changeable": 1},
 	{"key": "xne ","name": "香奶儿 ","type": 0,"api": "https://www.gdlsp.com/api/xml.php ","searchable": 1,"changeable": 1},
 	{"key": "bp ","name": "白嫖 ","type": 0,"api": "https://www.kxgav.com/api/xml.php ","searchable": 1,"changeable": 1},
+	{"key": "caoliuzyw","name": "草榴","type": 0,"api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/","searchable": 1,"changeable": 1},
+	{"key": "ikunzyapi","name": "爱坤","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
+	{"key": "feisuzyapi","name": "飞速","type": 0,"api": "https://www.feisuzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1},
 	{"key": "hav ","name": "黄艾薇 ","type": 0,"api": "https://www.pgxdy.com/api/xml.php ","searchable": 1,"changeable": 1},
+	{"key": "apilj","name": "辣椒","type": 0,"api": "https://apilj.com/api.php/provide/vod/at/json/","searchable": 1,"changeable": 1},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	{"key":"cat_js_18av","name":"🐱18av[CAT]","type": 3,"api":"./18a_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_mt","name":"🐱蜜桃[CAT]","type": 3,"api":"./mtsp_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key": "csp_XYQHiker_顶级国产","name":"顶级国产","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": {
