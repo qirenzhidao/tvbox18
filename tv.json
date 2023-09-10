@@ -29,7 +29,7 @@
     ],
     "sites": [
 	{"key":"cat_js_ng","name":"🐱南瓜[CAT]","type": 3,"api":"ng_open.js","searchable":1,"quickSearch":1,"filterable":1},
-	//{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"t"},
+	{"key":"cat_js_wogg","name":"🐱玩偶[CAT]","type": 3,"api":"wogg.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 	{"key":"cat_js_czzy","name":"🐱厂长[CAT]","type": 3,"api":"czzy_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_subaibai","name":"🐱素白白[CAT]","type": 3,"api":"subaibai_open.js","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"cat_js_kkys","name":"🐱快看[CAT]","type": 3,"api":"kkys_open.js","searchable":1,"quickSearch":1,"filterable":1},
@@ -83,7 +83,7 @@
 	"api": "js/lf_p2p2_min.js",
 	"ext": ""
 	},
-	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k$$$http://www.wogg.xyz/",
+	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$http://www.wogg.xyz/",
 	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8"},
 	
 	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
