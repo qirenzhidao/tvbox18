@@ -1,7 +1,6 @@
 {
     "wallpaper": "https://jianbian.chuqiuyu.tk",
     "spider": "XYQTVBox/custom_spider.jar;md5;5f97911cc7630b48ed3c69ba545818b5",
-	//"spider": "./jar/xyq0801.jar",
 	"lives": [
         {
           "name": "直播",
@@ -88,7 +87,6 @@
 	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8"},
 	
 	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
-
 	
 	//{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"changeable": 0,"filterable":1},
 	//{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
