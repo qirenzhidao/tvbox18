@@ -86,7 +86,7 @@
 	},
 	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,
 	"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$http://www.wogg.xyz:2086/",
-	"jar":"jar/fm.jar"},
+	"jar":"jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab"},
 	
 	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
