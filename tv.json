@@ -84,9 +84,9 @@
 	"api": "js/lf_p2p2_min.js",
 	"ext": ""
 	},
-	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,
-	"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$http://www.wogg.xyz/",
-	"jar":"jar/fan.txt;md5;f20b74480c058b1ff6236601f92d65a8"},
+	{"key":"csp_WoGG","name":"📲哥哥","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0,
+	"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$http://www.wogg.xyz:2086/",
+	"jar":"jar/fm.jar"},
 	
 	{"key": "csp_Yj1211","name": "📡虎牙斗鱼","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1},	
 	{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
