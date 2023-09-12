@@ -287,7 +287,7 @@
         {
             "api": "csp_Wogg",
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$http://www.wogg.xyz:2086/",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://www.wogg.xyz/",
             "jar": "jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "csp_WoGG",
             "name": "📲哥哥",
