@@ -551,6 +551,16 @@
             "type": 3
         },
         {
+            "api": "csp_JianPian",
+            "filterable": 1,
+            "key": "csp_JianPian",
+            "name": "🔨荐片",
+            "playerType": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
             "api": "http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.66.3:7893&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "categories": [
                 "国产动漫",
@@ -589,9 +599,9 @@
                 "斯诺克"
             ],
             "changeable": 1,
+            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "量子",
             "name": "🍎量子",
-			"jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=",
             "searchable": 1,
             "type": 0
@@ -630,9 +640,9 @@
                 "海外动漫"
             ],
             "changeable": 1,
+            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "非凡",
             "name": "🍋非凡",
-			"jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=",
             "searchable": 1,
             "type": 0
