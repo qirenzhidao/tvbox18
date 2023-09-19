@@ -482,7 +482,7 @@
         },
         {
             "api": "csp_XYQHikerAL",
-            "ext": "XYQTVBox/XYQHiker/玩偶哥哥.json",
+            "ext": "./XYQTVBox/XYQHiker/玩偶哥哥.json",
             "filterable": 1,
             "key": "csp_XYQHikerAL_玩偶哥哥",
             "name": "📀玩偶哥哥(优)",
@@ -535,7 +535,7 @@
                 "分类url": "https://555dyx1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "搜索url": "https://555dyx1.com/vodsearch/{wd}-------------.html"
             },
-            "jar": "jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+            "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
             "key": "555影视",
             "name": "♻555影视",
             "type": 3
@@ -591,7 +591,7 @@
             "changeable": 1,
             "key": "量子",
             "name": "🍎量子",
-			"jar": "jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+			"jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=",
             "searchable": 1,
             "type": 0
@@ -632,7 +632,7 @@
             "changeable": 1,
             "key": "非凡",
             "name": "🍋非凡",
-			"jar": "jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+			"jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=",
             "searchable": 1,
             "type": 0
@@ -645,7 +645,7 @@
             "type": 1
         },
         {
-            "api": "js/lf_search3_min.js",
+            "api": "./js/lf_search3_min.js",
             "changeable": 1,
             "filterable": 0,
             "key": "lf_js_search",
@@ -655,7 +655,7 @@
             "type": 3
         },
         {
-            "api": "js/lf_p2p2_min.js",
+            "api": "./js/lf_p2p2_min.js",
             "changeable": 1,
             "ext": "",
             "filterable": 1,
@@ -669,7 +669,7 @@
             "api": "csp_Wogg",
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://www.wogg.xyz/",
-            "jar": "jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "csp_WoGG",
             "name": "📲哥哥",
             "quickSearch": 1,
@@ -689,8 +689,8 @@
         {
             "api": "csp_XPathMacFilter",
             "changeable": 1,
-            "ext": "json/duboku.json$$$socks5://192.168.66.3:7893",
-            "jar": "jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+            "ext": "./json/duboku.json$$$socks5://192.168.66.3:7893",
+            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "獨播",
             "name": "🍉独播库",
             "searchable": 1,
@@ -700,7 +700,7 @@
             "api": "csp_NiNi",
             "changeable": 1,
             "ext": "1;socks5://192.168.66.3:7893",
-            "jar": "jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "泥巴",
             "name": "🍋泥视频",
             "searchable": 1,
@@ -726,6 +726,6 @@
             "type": 3
         }
     ],
-    "spider": "jar/zhuanma.jar;md5;867fe6e066130bd37094e136d456ca91",
+    "spider": "./jar/zhuanma.jar;md5;867fe6e066130bd37094e136d456ca91",
     "wallpaper": "https://picsum.photos/1280/720/?blur=2"
 }
