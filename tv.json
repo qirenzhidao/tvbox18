@@ -572,7 +572,7 @@
             "type": 3
         },
         {
-            "api": "http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.66.3:7893&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -610,15 +610,13 @@
                 "斯诺克"
             ],
             "changeable": 1,
-            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "量子",
             "name": "🍎量子",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=",
             "searchable": 1,
             "type": 0
         },
         {
-            "api": "http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.66.3:7893&url=http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "categories": [
                 "国产动漫",
                 "日韩动漫",
@@ -651,17 +649,15 @@
                 "海外动漫"
             ],
             "changeable": 1,
-            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
             "key": "非凡",
             "name": "🍋非凡",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.66.3:7893&url=",
             "searchable": 1,
             "type": 0
         },
         {
             "api": "http://www.feifei67.com/api.php/provide/vod/",
             "key": "feifei67.com",
-            "name": "🍉资源采集",
+            "name": "🍉飞飞",
             "searchable": 1,
             "type": 1
         },
@@ -681,7 +677,7 @@
             "ext": "",
             "filterable": 1,
             "key": "lf_js_p2p",
-            "name": "🍷磁力 | p2p",
+            "name": "🍷磁力",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
@@ -710,8 +706,8 @@
         {
             "api": "csp_XPathMacFilter",
             "changeable": 1,
-            "ext": "./json/duboku.json$$$socks5://192.168.66.3:7893",
-            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+            "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json",
+            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a",
             "key": "獨播",
             "name": "🍉独播库",
             "searchable": 1,
@@ -720,8 +716,8 @@
         {
             "api": "csp_NiNi",
             "changeable": 1,
-            "ext": "1;socks5://192.168.66.3:7893",
-            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+            "ext": "1",
+            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a",
             "key": "泥巴",
             "name": "🍋泥视频",
             "searchable": 1,
