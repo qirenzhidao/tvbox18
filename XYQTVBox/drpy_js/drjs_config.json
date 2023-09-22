@@ -581,6 +581,13 @@
             "ext": "./js/爱看.js"
         },
         {
+            "key": "drpy_js_爱看机器人",
+            "name": "爱看机器人[js]",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./js/爱看机器人.js"
+        },
+        {
             "key": "drpy_js_爱看影院",
             "name": "爱看影院[js]",
             "type": 3,
