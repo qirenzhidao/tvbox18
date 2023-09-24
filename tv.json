@@ -260,7 +260,7 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "name": "直播",
-            "playerType": 2,
+            "playerType": 1,
             "type": 0,
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
         },
@@ -486,7 +486,7 @@
             "filterable": 1,
             "key": "csp_XYQHikerAL_玩偶哥哥",
             "name": "📀玩偶哥哥(优)",
-            "playerType": 2,
+            "playerType": 1,
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
@@ -540,20 +540,18 @@
             "type": 3
         },
         {
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#成人福利$124",
-                "分类url": "https://555dyx1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-                "搜索url": "https://555dyx1.com/vodsearch/{wd}-------------.html"
-            },
-            "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
-            "key": "555影视",
+            "api": "csp_XYQHiker",
+            "ext": "./json/555影视.json",
+            "filterable": 1,
+            "key": "csp_XYQHiker_555影视",
             "name": "♻555影视",
+            "quickSearch": 1,
+            "searchable": 1,
             "type": 3
         },
         {
             "api": "csp_XYQHiker",
-            "ext": "json/人人影视PRO.json",
+            "ext": "./json/人人影视PRO.json",
             "filterable": 1,
             "key": "csp_XYQHiker_人人影视PRO",
             "name": "👀人人影视PRO",
@@ -575,7 +573,7 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "changeable": 1,
             "key": "量子",
-            "name": "🍎量子",
+            "name": "量子",
             "searchable": 1,
             "type": 0
         },
@@ -583,7 +581,7 @@
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "changeable": 1,
             "key": "非凡",
-            "name": "🍋非凡",
+            "name": "非凡",
             "searchable": 1,
             "type": 0
         },
@@ -614,7 +612,7 @@
         {
             "api": "http://www.feifei67.com/api.php/provide/vod/",
             "key": "feifei67.com",
-            "name": "🍉飞飞",
+            "name": "飞飞",
             "searchable": 1,
             "type": 1
         },
@@ -623,7 +621,7 @@
             "changeable": 1,
             "filterable": 0,
             "key": "lf_js_search",
-            "name": "😈影视推荐",
+            "name": "影视推荐",
             "quickSearch": 0,
             "searchable": 0,
             "type": 3
@@ -640,10 +638,10 @@
             "type": 3
         },
         {
-            "api": "csp_Wogg",
+            "api": "csp_WoGG",
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$http://www.wogg.xyz/",
-            "jar": "./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+            "jar": "./jar/fan.txt;md5;f20b74480c058b1ff6236601f92d65a8",
             "key": "csp_WoGG",
             "name": "📲哥哥",
             "quickSearch": 1,
@@ -664,7 +662,7 @@
             "api": "csp_XPathMacFilter",
             "changeable": 1,
             "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json",
-            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a",
+            "jar": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
             "key": "獨播",
             "name": "🍉独播库",
             "searchable": 1,
@@ -674,7 +672,7 @@
             "api": "csp_NiNi",
             "changeable": 1,
             "ext": "1",
-            "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;f6c79a469fd9a93db4dbd5fb568b705a",
+            "jar": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
             "key": "泥巴",
             "name": "🍋泥视频",
             "searchable": 1,
