@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./custom_spider.jar",
+    "spider": "./zhuanma.jar;md5;d030976d915223a3f9f9596595c9c836",
     "lives": [
         {
           "name": "直播",
