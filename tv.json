@@ -698,6 +698,6 @@
             "type": 3
         }
     ],
-    "spider": "./jar/zhuanma.jar;md5;d030976d915223a3f9f9596595c9c836",
+    "spider": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
     "wallpaper": "https://picsum.photos/1280/720/?blur=2"
 }
