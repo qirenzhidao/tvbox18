@@ -1,6 +1,16 @@
 {
 
     "sites": [
+	{
+            "api": "./js/lf_search3_min.js",
+            "changeable": 1,
+            "filterable": 0,
+            "key": "lf_js_search",
+            "name": "影视推荐",
+            "quickSearch": 0,
+            "searchable": 0,
+            "type": 3
+        },
         {
             "api": "ng_open.js",
             "filterable": 1,
