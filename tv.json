@@ -1,4 +1,257 @@
 {
+
+    "sites": [
+        {
+            "api": "ng_open.js",
+            "filterable": 1,
+            "key": "cat_js_ng",
+            "name": "🐱南瓜[CAT]",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_XYQHikerAL",
+            "ext": "./XYQTVBox/XYQHiker/玩偶哥哥.json",
+            "filterable": 1,
+            "key": "csp_XYQHikerAL_玩偶哥哥",
+            "name": "📀玩偶哥哥(优)",
+            "playerType": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_Gitcafe",
+            "ext": "./alitoken.txt",
+            "filterable": 1,
+            "key": "Gitcafe",
+            "name": "📀小纸条(搜索)",
+            "playerType": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "czzy_open.js",
+            "filterable": 1,
+            "key": "cat_js_czzy",
+            "name": "🐱厂长[CAT]",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "subaibai_open.js",
+            "filterable": 1,
+            "key": "cat_js_subaibai",
+            "name": "🐱素白白[CAT]",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "kkys_open.js",
+            "filterable": 1,
+            "key": "cat_js_kkys",
+            "name": "🐱快看[CAT]",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_XYQHiker",
+            "ext": "./json/555影视.json",
+            "filterable": 1,
+            "key": "csp_XYQHiker_555影视",
+            "name": "♻555影视",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_XYQHiker",
+            "ext": "./json/人人影视PRO.json",
+            "filterable": 1,
+            "key": "csp_XYQHiker_人人影视PRO",
+            "name": "👀人人影视PRO",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_JianPian",
+            "filterable": 1,
+            "key": "csp_JianPian",
+            "name": "🔨荐片",
+            "playerType": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "changeable": 1,
+            "key": "量子",
+            "name": "量子",
+            "searchable": 1,
+            "type": 0
+        },
+        {
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "changeable": 1,
+            "key": "非凡",
+            "name": "非凡",
+            "searchable": 1,
+            "type": 0
+        },
+        {
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "changeable": 1,
+            "key": "暴風",
+            "name": "暴風",
+            "searchable": 1,
+            "type": 1
+        },
+        {
+            "api": "https://suoniapi.com/api.php/provide/vod",
+            "changeable": 1,
+            "key": "索尼",
+            "name": "索尼 ",
+            "searchable": 1,
+            "type": 1
+        },
+        {
+            "api": "https://api.kuaifan.tv/api.php/provide/vod",
+            "changeable": 1,
+            "key": "快帆",
+            "name": "快帆",
+            "searchable": 1,
+            "type": 1
+        },
+        {
+            "api": "https://haiwaikan.com/api.php/provide/vod",
+            "categories": [
+                "国产剧",
+				"国产综艺",
+				"日本动漫",
+                "国产动漫",
+                "欧美动漫",
+                
+                "韩剧",
+                "日剧",
+                "台剧",
+                "泰剧",
+                "港剧",
+                "欧美剧",
+                "动画电影",
+                "韩国综艺",
+                
+                "日本综艺",
+                "欧美综艺",
+                "冒险片",
+                "剧情片",
+                "动作片",
+                "同性片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "战争片",
+                "歌舞片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "纪录片",
+                "经典片"
+            ],
+            "changeable": 1,
+            "key": "haiwaikan",
+            "name": "海外看",
+            "searchable": 1,
+            "type": 1
+        },
+        {
+            "api": "http://www.feifei67.com/api.php/provide/vod/",
+            "key": "feifei67.com",
+            "name": "飞飞",
+            "searchable": 1,
+            "type": 1
+        },
+        {
+            "api": "./js/lf_p2p2_min.js",
+            "changeable": 1,
+            "ext": "",
+            "filterable": 1,
+            "key": "lf_js_p2p",
+            "name": "🍷磁力",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_WoGG",
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+            "jar": "./jar/fan.txt;md5;f20b74480c058b1ff6236601f92d65a8",
+            "key": "csp_WoGG",
+            "name": "📲哥哥",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_Yj1211",
+            "changeable": 0,
+            "filterable": 1,
+            "key": "csp_Yj1211",
+            "name": "📡虎牙斗鱼",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_XPathMacFilter",
+            "changeable": 1,
+            "ext": "./json/duboku.json",
+            "jar": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
+            "key": "獨播",
+            "name": "🍉独播库",
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_NiNi",
+            "changeable": 1,
+            "ext": "",
+            "jar": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
+            "key": "泥巴",
+            "name": "🍋泥视频",
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_PushAgent",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
+            "filterable": 0,
+            "key": "push_agent",
+            "name": "📽推送",
+            "playerType": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "csp_XPath",
+            "key": "cc",
+            "name": "❌请勿相信视频中任何广告",
+            "quickSearch": 0,
+            "searchable": 0,
+            "type": 3
+        }
+    ],
     "ads": [
         "mimg.0c1q0l.cn",
         "www.googletagmanager.com",
@@ -468,256 +721,6 @@
                 "新片首发",
                 "UUE29"
             ]
-        }
-    ],
-    "sites": [
-        {
-            "api": "ng_open.js",
-            "filterable": 1,
-            "key": "cat_js_ng",
-            "name": "🐱南瓜[CAT]",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_XYQHikerAL",
-            "ext": "./XYQTVBox/XYQHiker/玩偶哥哥.json",
-            "filterable": 1,
-            "key": "csp_XYQHikerAL_玩偶哥哥",
-            "name": "📀玩偶哥哥(优)",
-            "playerType": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Gitcafe",
-            "ext": "./alitoken.txt",
-            "filterable": 1,
-            "key": "Gitcafe",
-            "name": "📀小纸条(搜索)",
-            "playerType": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "czzy_open.js",
-            "filterable": 1,
-            "key": "cat_js_czzy",
-            "name": "🐱厂长[CAT]",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "subaibai_open.js",
-            "filterable": 1,
-            "key": "cat_js_subaibai",
-            "name": "🐱素白白[CAT]",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "kkys_open.js",
-            "filterable": 1,
-            "key": "cat_js_kkys",
-            "name": "🐱快看[CAT]",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_XYQHiker",
-            "ext": "./json/555影视.json",
-            "filterable": 1,
-            "key": "csp_XYQHiker_555影视",
-            "name": "♻555影视",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_XYQHiker",
-            "ext": "./json/人人影视PRO.json",
-            "filterable": 1,
-            "key": "csp_XYQHiker_人人影视PRO",
-            "name": "👀人人影视PRO",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_JianPian",
-            "filterable": 1,
-            "key": "csp_JianPian",
-            "name": "🔨荐片",
-            "playerType": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "changeable": 1,
-            "key": "量子",
-            "name": "量子",
-            "searchable": 1,
-            "type": 0
-        },
-        {
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "changeable": 1,
-            "key": "非凡",
-            "name": "非凡",
-            "searchable": 1,
-            "type": 0
-        },
-        {
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "changeable": 1,
-            "key": "暴風",
-            "name": "暴風",
-            "searchable": 1,
-            "type": 1
-        },
-        {
-            "api": "https://suoniapi.com/api.php/provide/vod",
-            "changeable": 1,
-            "key": "索尼",
-            "name": "索尼 ",
-            "searchable": 1,
-            "type": 1
-        },
-        {
-            "api": "https://api.kuaifan.tv/api.php/provide/vod",
-            "changeable": 1,
-            "key": "快帆",
-            "name": "快帆",
-            "searchable": 1,
-            "type": 1
-        },
-		{
-      "key": "haiwaikan",
-      "name": "海外看",
-      "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫",
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "台剧",
-        "泰剧",
-        "港剧",
-        "欧美剧",
-        "动画电影",
-        "韩国综艺",
-        "国产综艺",
-        "日本综艺",
-        "欧美综艺",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "同性片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "经典片"
-      ]
-    },
-        {
-            "api": "http://www.feifei67.com/api.php/provide/vod/",
-            "key": "feifei67.com",
-            "name": "飞飞",
-            "searchable": 1,
-            "type": 1
-        },
-        {
-            "api": "./js/lf_p2p2_min.js",
-            "changeable": 1,
-            "ext": "",
-            "filterable": 1,
-            "key": "lf_js_p2p",
-            "name": "🍷磁力",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_WoGG",
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-            "jar": "./jar/fan.txt;md5;f20b74480c058b1ff6236601f92d65a8",
-            "key": "csp_WoGG",
-            "name": "📲哥哥",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Yj1211",
-            "changeable": 0,
-            "filterable": 1,
-            "key": "csp_Yj1211",
-            "name": "📡虎牙斗鱼",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_XPathMacFilter",
-            "changeable": 1,
-            "ext": "./json/duboku.json",
-            "jar": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
-            "key": "獨播",
-            "name": "🍉独播库",
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_NiNi",
-            "changeable": 1,
-            "ext": "",
-            "jar": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
-            "key": "泥巴",
-            "name": "🍋泥视频",
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_PushAgent",
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-            "filterable": 0,
-            "key": "push_agent",
-            "name": "📽推送",
-            "playerType": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_XPath",
-            "key": "cc",
-            "name": "❌请勿相信视频中任何广告",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 3
         }
     ],
     "spider": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
