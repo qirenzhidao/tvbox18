@@ -14,6 +14,7 @@
         {
             "api": "ng_open.js",
             "filterable": 1,
+			"changeable": 0,
             "key": "cat_js_ng",
             "name": "🐱南瓜[CAT]",
             "quickSearch": 1,
@@ -21,29 +22,21 @@
             "type": 3
         },
         {
-            "api": "csp_XYQHikerAL",
-            "ext": "./XYQTVBox/XYQHiker/玩偶哥哥.json",
-            "filterable": 1,
-            "key": "csp_XYQHikerAL_玩偶哥哥",
-            "name": "📀玩偶哥哥(优)",
-            "playerType": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
             "api": "csp_Gitcafe",
             "ext": "./alitoken.txt",
+			"changeable": 0,
             "filterable": 1,
             "key": "Gitcafe",
             "name": "📀小纸条(搜索)",
             "playerType": 1,
             "quickSearch": 1,
             "searchable": 1,
+			"jar": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
             "type": 3
         },
         {
             "api": "czzy_open.js",
+			"changeable": 1,
             "filterable": 1,
             "key": "cat_js_czzy",
             "name": "🐱厂长[CAT]",
@@ -53,6 +46,7 @@
         },
         {
             "api": "subaibai_open.js",
+			"changeable": 1,
             "filterable": 1,
             "key": "cat_js_subaibai",
             "name": "🐱素白白[CAT]",
@@ -62,6 +56,7 @@
         },
         {
             "api": "kkys_open.js",
+			"changeable": 0,
             "filterable": 1,
             "key": "cat_js_kkys",
             "name": "🐱快看[CAT]",
@@ -71,32 +66,38 @@
         },
         {
             "api": "csp_XYQHiker",
+			"changeable": 0,
             "ext": "./json/555影视.json",
             "filterable": 1,
             "key": "csp_XYQHiker_555影视",
             "name": "♻555影视",
             "quickSearch": 1,
             "searchable": 1,
+			"jar": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
             "type": 3
         },
         {
             "api": "csp_XYQHiker",
+			"changeable": 1,
             "ext": "./json/人人影视PRO.json",
             "filterable": 1,
             "key": "csp_XYQHiker_人人影视PRO",
             "name": "👀人人影视PRO",
             "quickSearch": 1,
             "searchable": 1,
+			"jar": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
             "type": 3
         },
         {
             "api": "csp_JianPian",
+			"changeable": 1,
             "filterable": 1,
             "key": "csp_JianPian",
             "name": "🔨荐片",
             "playerType": 1,
             "quickSearch": 1,
             "searchable": 1,
+			"jar": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
             "type": 3
         },
         {
@@ -185,6 +186,7 @@
         },
         {
             "api": "http://www.feifei67.com/api.php/provide/vod/",
+			"changeable": 1,
             "key": "feifei67.com",
             "name": "飞飞",
             "searchable": 1,
@@ -192,7 +194,7 @@
         },
         {
             "api": "./js/lf_p2p2_min.js",
-            "changeable": 1,
+            "changeable": 0,
             "ext": "",
             "filterable": 1,
             "key": "lf_js_p2p",
@@ -203,7 +205,7 @@
         },
         {
             "api": "csp_WoGG",
-            "changeable": 0,
+            "changeable": 1,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
             "jar": "./jar/fan.txt;md5;f20b74480c058b1ff6236601f92d65a8",
             "key": "csp_WoGG",
@@ -220,13 +222,13 @@
             "name": "📡虎牙斗鱼",
             "quickSearch": 1,
             "searchable": 1,
+			"jar": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
             "type": 3
         },
         {
             "api": "csp_XPathMacFilter",
             "changeable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a8f3edaf1afd3ed28413b3ed26fd8fbd",
             "key": "獨播",
             "name": "🍉独播库",
             "searchable": 1,
@@ -236,7 +238,6 @@
             "api": "csp_NiNi",
             "changeable": 1,
             "ext": "",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a8f3edaf1afd3ed28413b3ed26fd8fbd",
             "key": "泥巴",
             "name": "🍋泥视频",
             "searchable": 1,
@@ -244,6 +245,7 @@
         },
         {
             "api": "csp_PushAgent",
+			"changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
             "filterable": 0,
             "key": "push_agent",
@@ -251,10 +253,12 @@
             "playerType": 1,
             "quickSearch": 1,
             "searchable": 1,
+			"jar": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
             "type": 3
         },
         {
             "api": "csp_XPath",
+			"changeable": 0,
             "key": "cc",
             "name": "❌请勿相信视频中任何广告",
             "quickSearch": 0,
@@ -489,6 +493,6 @@
             "group": "redirect"
         }
     ],
-    "spider": "./XYQTVBox/custom_spider.jar;md5;7de6e7526f5869ba90327c15f7913a0b",
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2"
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a8f3edaf1afd3ed28413b3ed26fd8fbd",
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php"
 }
