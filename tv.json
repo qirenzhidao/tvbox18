@@ -55,11 +55,11 @@
             "type": 3
         },
         {
-            "api": "kkys_open.js",
-			"changeable": 0,
+            "api": "duboku_open.js",
+			"changeable": 1,
             "filterable": 1,
-            "key": "cat_js_kkys",
-            "name": "🐱快看[CAT]",
+            "key": "cat_js_duboku",
+            "name": "🐱独播[CAT]",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
