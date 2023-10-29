@@ -206,8 +206,8 @@
         {
             "api": "csp_WoGG",
             "changeable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-            "jar": "./jar/fan.txt;md5;f20b74480c058b1ff6236601f92d65a8",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹",
+            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;3eb3583bc70b80ec673d88397967dbec",
             "key": "csp_WoGG",
             "name": "📲哥哥",
             "quickSearch": 1,
@@ -232,7 +232,8 @@
             "key": "獨播",
             "name": "🍉独播库",
             "searchable": 1,
-            "type": 3
+            "type": 3,
+			"timeout":0
         },
         {
             "api": "csp_NiNi",
