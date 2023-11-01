@@ -254,6 +254,6 @@
 		{"api":"csp_PushAgent","changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","filterable":0,"jar":"./XYQTVBox/custom_spider.jar;md5;ccd12ddbc8857f88a6f52af005cd016e","key":"push_agent","name":"📽推送","quickSearch":1,"searchable":1,"type":3},
 		{"api":"csp_XPath","changeable":0,"key":"cc","name":"❌请勿相信视频中任何广告","quickSearch":0,"searchable":0,"type":3}
     ],
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;eeeaf811c4c9abfc7d7eb731faf209d4",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f3b74427b43e9aea489c7ccb4045c8ad",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php"
 }
