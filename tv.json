@@ -243,6 +243,7 @@
 		{"api":"csp_Gitcafe","changeable":0,"ext":"./alitoken.txt","filterable":1,"jar":"./XYQTVBox/custom_spider.jar;md5;eabf452425cf0176d395c553c8bc3a54","key":"Gitcafe","name":"📀小纸条(搜索)","quickSearch":1,"searchable":1,"type":3},
 		{"api":"czzy_open.js","changeable":1,"filterable":1,"key":"cat_js_czzy","name":"🐱厂长[CAT]","quickSearch":1,"searchable":1,"type":3},
 		{"api":"duboku_open.js","changeable":1,"filterable":1,"key":"cat_js_duboku","name":"🐱独播[CAT]","quickSearch":1,"searchable":1,"type":3},
+		{"api":"wogg.js","changeable":1,"filterable":1,"key":"cat_js_wogg","name":"🐱玩偶[CAT]","quickSearch":1,"searchable":1,"type":3},
 		{"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","changeable":1,"key":"量子","name":"量子","searchable":1,"type":0},
 		{"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","changeable":1,"key":"非凡","name":"非凡","searchable":1,"type":0},
 		{"api":"https://bfzyapi.com/api.php/provide/vod","changeable":1,"key":"暴風","name":"暴風","searchable":1,"type":1},
