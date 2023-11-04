@@ -230,12 +230,16 @@
     ],
     "sites": [
 		{"api":"./js/lf_search3_min.js","changeable":1,"filterable":0,"key":"lf_js_search","name":"影视推荐","quickSearch":0,"searchable":0,"type":3},
+		{"api":"ng_open.js","changeable":0,"filterable":1,"key":"cat_js_ng","name":"🐱南瓜[CAT]","quickSearch":1,"searchable":1,"type":3},
+		{"api":"bulei_open.js","changeable":0,"filterable":1,"key":"cat_js_bulei","name":"🐱布雷[CAT]","quickSearch":1,"searchable":1,"type":3},
+		{"api":"mino_open.js","changeable":0,"filterable":1,"key":"cat_js_ng","name":"🐱mino[CAT]","quickSearch":1,"searchable":1,"type":3},
+		{"api":"yrzj_open.js","changeable":0,"filterable":1,"key":"cat_js_ng","name":"🐱yrzj[CAT]","quickSearch":1,"searchable":1,"type":3},
 		{"api":"csp_WoGG","changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹","key":"csp_WoGG","name":"📲哥哥","quickSearch":1,"searchable":1,"type":3},
 		{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 		{"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 		{"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 		{"api":"csp_Yj1211","changeable":0,"filterable":1,"jar":"./XYQTVBox/custom_spider.jar;md5;eabf452425cf0176d395c553c8bc3a54","key":"csp_Yj1211","name":"📡虎牙斗鱼","quickSearch":1,"searchable":1,"type":3},
-		{"api":"ng_open.js","changeable":0,"filterable":1,"key":"cat_js_ng","name":"🐱南瓜[CAT]","quickSearch":1,"searchable":1,"type":3},
+		
 		{"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 		{"key":"探探","name":"🏵影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
 		{"api":"csp_Gitcafe","changeable":0,"ext":"./alitoken.txt","filterable":1,"jar":"./XYQTVBox/custom_spider.jar;md5;eabf452425cf0176d395c553c8bc3a54","key":"Gitcafe","name":"📀小纸条(搜索)","quickSearch":1,"searchable":1,"type":3},
@@ -253,6 +257,6 @@
 		{"api":"csp_PushAgent","changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","filterable":0,"jar":"./XYQTVBox/custom_spider.jar;md5;eabf452425cf0176d395c553c8bc3a54","key":"push_agent","name":"📽推送","quickSearch":1,"searchable":1,"type":3},
 		{"api":"csp_XPath","changeable":0,"key":"cc","name":"❌请勿相信视频中任何广告","quickSearch":0,"searchable":0,"type":3}
     ],
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;cf00cc8baef423e51187750ac973417d",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php"
 }
