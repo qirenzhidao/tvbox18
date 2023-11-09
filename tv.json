@@ -242,7 +242,7 @@
 		{"key":"探探","name":"🏵影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
 		{"api":"csp_Gitcafe","changeable":0,"ext":"./alitoken.txt","filterable":1,"jar":"./XYQTVBox/custom_spider.jar;md5;eabf452425cf0176d395c553c8bc3a54","key":"Gitcafe","name":"📀小纸条(搜索)","quickSearch":1,"searchable":1,"type":3},
 		{"api":"czzy_open.js","changeable":1,"filterable":1,"key":"cat_js_czzy","name":"🐱厂长[CAT]","quickSearch":1,"searchable":1,"type":3},
-		{"key":"If_js_live","name":"视频┃油管","type":3,"playerType":1,"searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"api":"./js/lf_live10_min.js","ext":"./js/lf_live_min.txt"},
+		{"key":"If_js_live","name":"视频┃油管","type":3,"playerType":1,"searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"api":"./js/lf_live10_min.js","ext":"./js/youtube.txt"},
 		
 		{"api":"duboku_open.js","changeable":1,"filterable":1,"key":"cat_js_duboku","name":"🐱独播[CAT]","quickSearch":1,"searchable":1,"type":3},
 		{"api":"csp_NiNi","changeable":1,"ext":"","key":"泥巴","name":"🍋泥视频","searchable":1,"type":3},
