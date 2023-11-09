@@ -23,3 +23,7 @@
 #磁力
 ./lf_pushagent_list.txt
 
+#YanG
+https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
+#atsushi
+https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
