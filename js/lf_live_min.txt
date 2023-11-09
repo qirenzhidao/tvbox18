@@ -5,9 +5,10 @@
 相对路径说明
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
-
+#16万MV
+https://gh-proxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
 #电视直播大全
-https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/mitv.txt
+https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt
 
 
 #境外广播
@@ -27,4 +28,4 @@ https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.
 #atsushi
 https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
 #youtube
-https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/youtube.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u
