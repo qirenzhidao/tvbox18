@@ -7,9 +7,8 @@
 以/开头，存储卡的根目录
 
 #电视直播大全
-./live.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/youtube.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/love.txt
+./mitv.txt
+
 
 #境外广播
 
