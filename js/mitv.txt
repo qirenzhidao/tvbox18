@@ -1,4 +1,5 @@
 ﻿中国,#genre#
+sgp,https://www.youtube.com/watch?v=Sy2SNven5F8
 CCTV1,mitv://generationnexxxt.com:19806/4d1986f4c31a431cb977822f62390a6f
 CCTV2,mitv://generationnexxxt.com:19806/4f6345e5f86944b5b495fc33310a43f3
 CCTV3,mitv://generationnexxxt.com:19806/8b3d1eb8e6634a0c94859770bbed7f87
