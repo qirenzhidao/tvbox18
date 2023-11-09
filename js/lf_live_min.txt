@@ -7,7 +7,7 @@
 以/开头，存储卡的根目录
 
 #电视直播大全
-./mitv.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/mitv.txt
 
 
 #境外广播
@@ -26,3 +26,5 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 #atsushi
 https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
+#youtube
+https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/youtube.txt
