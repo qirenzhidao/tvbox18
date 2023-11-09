@@ -10,9 +10,8 @@
 ./live.txt
 
 #境外广播
-./TVradio.m3u
-./youtube.txt
-./love.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/youtube.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/love.txt
 
 #收音机📻
 ./蜻蜓FM.txt
