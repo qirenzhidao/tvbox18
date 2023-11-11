@@ -11,14 +11,19 @@
       "time": "2023-04-16"
     },
     {
-      "url": "clan://localhost/XYQTVBox/Yoursmile/XC.json",
-      "name": "南风本地",
-      "time": "2023-04-19"
+      "url": "clan://localhost/XYQTVBox/fty/fty.json",
+      "name": "饭太硬本地",
+      "time": "2023-11-03 10:33:33"
     },
     {
       "url": "clan://localhost/XYQTVBox/qiaoji/qjtvbox.json",
       "name": "巧计本地",
-      "time": "2023-10-13 10:33:33"
+      "time": "2023-11-03 10:33:33"
+    },
+    {
+      "url": "clan://localhost/XYQTVBox/Yoursmile/XC.json",
+      "name": "南风本地",
+      "time": "2023-04-19"
     }
   ]
 }
