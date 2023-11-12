@@ -232,7 +232,7 @@
 		{"api":"./js/lf_search3_min.js","changeable":1,"filterable":0,"key":"lf_js_search","name":"🏆影视推荐","quickSearch":0,"searchable":0,"type":3,"timeout":0},
 		{"api":"ng_open.js","changeable":1,"filterable":1,"key":"cat_js_ng","name":"🐱南瓜[CAT]","quickSearch":1,"searchable":1,"type":3},
 		
-		{"api":"csp_WoGG","changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹","key":"csp_WoGG","name":"📲蓝光|首次阿里云盘扫码","quickSearch":1,"searchable":1,"type":3},
+		{"api":"csp_WoGG","changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹","key":"csp_WoGG","name":"📲蓝光|直连","quickSearch":1,"searchable":1,"type":3},
 		{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 		{"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 		{"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
