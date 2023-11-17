@@ -7,9 +7,9 @@
 	{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 	{"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-	{"api":"csp_Yj1211","changeable":0,"filterable":1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16","key":"csp_Yj1211","name":"📡虎牙斗鱼","quickSearch":1,"searchable":1,"type":3},
+	{"api":"csp_Yj1211","changeable":0,"filterable":1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;d4d86ebaffa18b3058e2fad90ace00af","key":"csp_Yj1211","name":"📡虎牙斗鱼","quickSearch":1,"searchable":1,"type":3},
 	
-	{"api":"csp_Gitcafe","changeable":1,"ext":"./alitoken.txt","filterable":1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16","key":"Gitcafe","name":"📀小纸条(搜索)","quickSearch":1,"searchable":1,"type":3},
+	{"api":"csp_Gitcafe","changeable":1,"ext":"./alitoken.txt","filterable":1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;d4d86ebaffa18b3058e2fad90ace00af","key":"Gitcafe","name":"📀小纸条(搜索)","quickSearch":1,"searchable":1,"type":3},
 
 	{"key":"If_js_live","name":"✈️科学上网️","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"api":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/lf_live10_min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/lf_live_min.txt"},
 	
@@ -22,7 +22,7 @@
 	{"api":"csp_NiNi","changeable":1,"ext":"","key":"泥巴","name":"🍋泥视频|✈️","searchable":1,"type":3},
 	{"api":"https://suoniapi.com/api.php/provide/vod","changeable":1,"key":"索尼","name":"🎲索尼|✈️","searchable":1,"type":1},
 		
-	{"api":"csp_PushAgent","changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","filterable":0,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16","key":"push_agent","name":"📽推送","quickSearch":1,"searchable":1,"type":3},
+	{"api":"csp_PushAgent","changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","filterable":0,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;d4d86ebaffa18b3058e2fad90ace00af","key":"push_agent","name":"📽推送","quickSearch":1,"searchable":1,"type":3},
 	{"api":"csp_XPath","changeable":0,"key":"cc","name":"❌请勿相信视频中任何广告","quickSearch":0,"searchable":0,"type":3}
     ],
     "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
