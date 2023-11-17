@@ -187,7 +187,6 @@
     ],
     "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
     "rules":[
- {"hosts": [".*.*","*.com"],"name": "proxy"},
         {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
         {"host":"www.ysgc.vip","rule":["getm3u8?url=http"]},
         {"host":"v.douyin.com","rule":["playwm/?video_id="]},
