@@ -10,7 +10,7 @@
 	{"api":"csp_Yj1211","changeable":0,"filterable":1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;d4d86ebaffa18b3058e2fad90ace00af","key":"csp_Yj1211","name":"📡虎牙斗鱼","quickSearch":1,"searchable":1,"type":3},
 	
 	{"api":"csp_Gitcafe","changeable":1,"ext":"./alitoken.txt","filterable":1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;d4d86ebaffa18b3058e2fad90ace00af","key":"Gitcafe","name":"📀小纸条(搜索)","quickSearch":1,"searchable":1,"type":3},
-
+	{"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;d4d86ebaffa18b3058e2fad90ace00af"},
 	{"key":"If_js_live","name":"✈️科学上网️","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":0,"api":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/lf_live10_min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/js/lf_live_min.txt"},
 	
 	{"api":"https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/duboku_open.js","changeable":1,"filterable":1,"key":"cat_js_duboku","name":"🐱独播[CAT]","quickSearch":1,"searchable":1,"type":3},
