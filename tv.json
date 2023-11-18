@@ -344,12 +344,20 @@
             "type": 3
         },
         {
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "api": "https://cj.lziapi.com/api.php/provide/vod",
             "changeable": 1,
             "key": "量子",
             "name": "🎄量子",
             "searchable": 1,
-            "type": 0
+            "type": 1
+        },
+        {
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+            "changeable": 1,
+            "key": "非凡",
+            "name": "🎄非凡",
+            "searchable": 1,
+            "type": 1
         },
         {
             "api": "csp_NiNi",
