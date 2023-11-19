@@ -231,7 +231,7 @@
         },
         {
             "api": "csp_WoGG",
-            "changeable": 1,
+            "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹",
             "key": "csp_WoGG",
             "name": "📲蓝光|直连",
@@ -269,39 +269,52 @@
         },
         {
             "api": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/libs/drpy2.min.js",
+            "changeable": 0,
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/js/斗鱼直播.js",
+            "filterable": 0,
             "key": "drpy_js_斗鱼直播",
             "name": "🎮斗鱼直播️",
+            "quickSearch": 0,
+            "searchable": 0,
             "type": 3
         },
         {
             "api": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/libs/drpy2.min.js",
+            "changeable": 0,
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/js/虎牙直播.js",
+            "filterable": 0,
             "key": "drpy_js_虎牙直播",
             "name": "🎮虎牙直播️",
+            "quickSearch": 0,
+            "searchable": 0,
             "type": 3
         },
         {
             "api": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/libs/drpy2.min.js",
+            "changeable": 0,
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/js/哔哩直播.js",
+            "filterable": 0,
             "key": "drpy_js_哔哩直播",
             "name": "🎮哔哩直播️",
+            "quickSearch": 0,
+            "searchable": 0,
             "type": 3
         },
         {
-            "api": "csp_Gitcafe",
-            "changeable": 1,
+            "api": "csp_Upyunso",
+            "changeable": 0,
             "ext": "./alitoken.txt",
             "filterable": 1,
             "jar": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;3b3265737234ff17fc66539dd99efc66",
-            "key": "Gitcafe",
-            "name": "📀小纸条(搜索)",
+            "key": "csp_Upyunso",
+            "name": "📀UP云搜(搜索)",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
         },
         {
             "api": "csp_Ikanbot",
+            "changeable": 1,
             "filterable": 1,
             "jar": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;3b3265737234ff17fc66539dd99efc66",
             "key": "csp_Ikanbot",
@@ -323,7 +336,7 @@
         },
         {
             "api": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/duboku_open.js",
-            "changeable": 1,
+            "changeable": 0,
             "filterable": 1,
             "key": "cat_js_duboku",
             "name": "🐱独播[CAT]",
@@ -333,6 +346,7 @@
         },
         {
             "api": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/libs/drpy2.min.js",
+            "changeable": 0,
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/js/唐人街影视[飞].js",
             "key": "drpy_js_唐人街影视[飞]",
             "name": "🎧唐人街影视|✈",
@@ -340,6 +354,7 @@
         },
         {
             "api": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/libs/drpy2.min.js",
+            "changeable": 0,
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/js/JRKAN直播.js",
             "key": "drpy_js_JRKAN直播",
             "name": "⚽JRKAN直播️",

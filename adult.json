@@ -537,6 +537,13 @@
   ],
   "rules": [
   {
+            "hosts": [
+                "cdn.*.com",
+                ".*.*"
+            ],
+            "name": "proxy"
+        },
+  {
             "name": "磁力廣告",
             "hosts": ["magnet"],
             "regex": ["最 新", "直 播", "更 新"]
