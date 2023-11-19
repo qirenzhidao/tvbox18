@@ -89,14 +89,6 @@
         },
         {
             "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ],
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query"
-        },
-        {
-            "ips": [
                 "9.9.9.9",
                 "149.112.112.112"
             ],
@@ -111,7 +103,7 @@
             "name": "直播",
             "playerType": 1,
             "type": 0,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/live.txt"
         },
         {
             "channels": [
