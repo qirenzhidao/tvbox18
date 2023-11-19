@@ -302,7 +302,7 @@
         },
         {
             "api": "csp_Upyunso",
-            "changeable": 0,
+            "changeable": 1,
             "ext": "./alitoken.txt",
             "filterable": 1,
             "jar": "https://gh-proxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/custom_spider.jar;md5;3b3265737234ff17fc66539dd99efc66",
