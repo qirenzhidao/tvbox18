@@ -1,133 +1,6 @@
 {
-    "ads": [
-        "mimg.0c1q0l.cn",
-        "www.googletagmanager.com",
-        "www.google-analytics.com",
-        "mc.usihnbcq.cn",
-        "mg.g1mm3d.cn",
-        "mscs.svaeuzh.cn",
-        "cnzz.hhttm.top",
-        "tp.vinuxhome.com",
-        "cnzz.mmstat.com",
-        "www.baihuillq.com",
-        "s23.cnzz.com",
-        "z3.cnzz.com",
-        "c.cnzz.com",
-        "stj.v1vo.top",
-        "z12.cnzz.com",
-        "img.mosflower.cn",
-        "tips.gamevvip.com",
-        "ehwe.yhdtns.com",
-        "xdn.cqqc3.com",
-        "www.jixunkyy.cn",
-        "sp.chemacid.cn",
-        "hm.baidu.com",
-        "s9.cnzz.com",
-        "z6.cnzz.com",
-        "um.cavuc.com",
-        "mav.mavuz.com",
-        "wofwk.aoidf3.com",
-        "z5.cnzz.com",
-        "xc.hubeijieshikj.cn",
-        "tj.tianwenhu.com",
-        "xg.gars57.cn",
-        "k.jinxiuzhilv.com",
-        "cdn.bootcss.com",
-        "ppl.xunzhuo123.com",
-        "xomk.jiangjunmh.top",
-        "img.xunzhuo123.com",
-        "z1.cnzz.com",
-        "s13.cnzz.com",
-        "xg.huataisangao.cn",
-        "z7.cnzz.com",
-        "xg.huataisangao.cn",
-        "z2.cnzz.com",
-        "s96.cnzz.com",
-        "q11.cnzz.com",
-        "thy.dacedsfa.cn",
-        "xg.whsbpw.cn",
-        "s19.cnzz.com",
-        "z8.cnzz.com",
-        "s4.cnzz.com",
-        "f5w.as12df.top",
-        "ae01.alicdn.com",
-        "www.92424.cn",
-        "k.wudejia.com",
-        "vivovip.mmszxc.top",
-        "qiu.xixiqiu.com",
-        "cdnjs.hnfenxun.com",
-        "cms.qdwght.com",
-        "api.htpan.net",
-        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-    ],
-    "doh": [
-        {
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ],
-            "name": "Google",
-            "url": "https://dns.google/dns-query"
-        },
-        {
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ],
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query"
-        },
-        {
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ],
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query"
-        },
-        {
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ],
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer"
-        }
-    ],
-    "lives": [
-        {
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "name": "直播",
-            "playerType": 1,
-            "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/json/live.txt"
-        },
-        {
-            "channels": [
-                {
-                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
-                    ]
-                }
-            ],
-            "group": "redirect"
-        }
-    ],
-    "rules": [
-        {
-            "hosts": [
-                "cdn.*.com",
-                ".*.*"
-            ],
-            "name": "proxy"
-        }
-    ],
-    "sites": [
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395",
+  "sites": [
 {"key":"豆豆","name":"🌕豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"橘子","name":"🍊橘子┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
@@ -144,24 +17,152 @@
 {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"迪迪","name":"🌈迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {
-	"key": "push_agent",
-	"name": "❌推送",
-	"type": 3,
-	"api": "csp_Push",
-	"searchable": 1,
-	"changeable": 0,
-	"jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f"
-},
-{
-	"api": "csp_fan",
-	"changeable": 0,
-	"key": "cc",
-	"name": "❌请勿相信视频中任何广告",
-	"quickSearch": 0,
-	"searchable": 0,
-	"type": 3
-}
-    ],
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395",
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2"
+      "key": "push_agent",
+      "name": "❌推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f"
+    },
+    {
+      "api": "csp_fan",
+      "changeable": 0,
+      "key": "cc",
+      "name": "❌请勿相信视频中任何广告",
+      "quickSearch": 0,
+      "searchable": 0,
+      "type": 3
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com",
+    "api.htpan.net",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ],
+  "doh": [
+    {
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ],
+      "name": "Google",
+      "url": "https://dns.google/dns-query"
+    },
+    {
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query"
+    },
+    {
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ],
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query"
+    },
+    {
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ],
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer"
+    }
+  ],
+  "lives": [
+    {
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "name": "直播",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/json/live.txt"
+    },
+    {
+      "channels": [
+        {
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
+          ]
+        }
+      ],
+      "group": "redirect"
+    }
+  ],
+  "rules": [
+    {
+      "hosts": [
+        "cdn.*.com",
+        ".*.*"
+      ],
+      "name": "proxy"
+    }
+  ],
+  
+  "wallpaper": "https://picsum.photos/1280/720/?blur=2"
 }
