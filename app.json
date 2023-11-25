@@ -143,24 +143,24 @@
 {"key":"极光","name":"🦄️极光┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFrp15cspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="},
 {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"迪迪","name":"🌈迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-		{
-      "key": "push_agent",
-      "name": "❌推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0,
-	  "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f"
-		},
-        {
-            "api": "csp_fan",
-            "changeable": 0,
-            "key": "cc",
-            "name": "❌请勿相信视频中任何广告",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 3
-        }
+{
+	"key": "push_agent",
+	"name": "❌推送",
+	"type": 3,
+	"api": "csp_Push",
+	"searchable": 1,
+	"changeable": 0,
+	"jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f"
+},
+{
+	"api": "csp_fan",
+	"changeable": 0,
+	"key": "cc",
+	"name": "❌请勿相信视频中任何广告",
+	"quickSearch": 0,
+	"searchable": 0,
+	"type": 3
+}
     ],
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395",
     "wallpaper": "https://picsum.photos/1280/720/?blur=2"
