@@ -1,4 +1,6 @@
-## 接口URL(自用)：
+## 接口URL(无需翻墙，均为APP优质接口)：
+https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json
+
 https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json
 
 ### 香雅情 已更新至最新2023.11.18
