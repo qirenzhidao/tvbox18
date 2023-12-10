@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./custom_spider.jar;md5;3b3265737234ff17fc66539dd99efc66",
+    "spider": "./custom_spider.jar;md5;316660b0adb299c1dc63587579a3522e",
     "lives": [
         {
           "name": "在线",

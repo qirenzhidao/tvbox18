@@ -1,9 +1,9 @@
-## 接口URL(无需翻墙，均为APP优质接口)：
+## 接口URL(APP提取接口)：
 https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json
+### 多线路（影视app支持多线路，tvbox自测）
+https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tvbox.json
 
-https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json
-
-### 香雅情 已更新至最新2023.11.18
+### 香雅情 已更新至最新2023.12.10
 香雅情 在线接口 https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/XYQTVBox/XYQTVBox.json
 
 推送阿里token方法：设备IP:9978	推送 【token@token值】；
