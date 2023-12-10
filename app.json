@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1f58870cbfc2419c6fdd6c8a071bd800",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4d0c466a2f079b0b55c138d738076244",
   "sites": [
     {
       "key": "豆豆",
@@ -12,7 +12,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶哥哥┃尝试修复15分钟断流",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
