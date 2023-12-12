@@ -2,7 +2,18 @@
   "spider": "./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
-	{
+    {
+      "key": "csp_XYQHiker_顶级国产",
+      "name": "🧲顶级国产",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/顶级国产.json",
+      "jar": "./XYQTVBox/custom_spider.jar;md5;316660b0adb299c1dc63587579a3522e"
+    },
+    {
       "key": "aoo.qoqoavideo2.sbs",
       "name": "顶级国产",
       "type": 3,
