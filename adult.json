@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
+  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
     {
