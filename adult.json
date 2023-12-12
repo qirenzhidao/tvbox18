@@ -12,7 +12,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "https://p12q09k.qoqoavideo2.xyz/vodtype/{cateId}-{catePg}/",
+        "分类url": "https://p12q09k.qoqoavideo2.xyz/vodtype/{cateId}/page/{catePg}.html",
         "分类": "中文字幕$154#国产情色$151#日本无码$162#动漫$150#国产传媒$146#少女萝莉$164"
       }
     },
