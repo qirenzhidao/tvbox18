@@ -2,6 +2,21 @@
   "spider": "./jar/custom_spider_fm.jar;md5;20778c40c4dcb8675aa6a67e3faca620",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
+	{
+      "key": "aoo.qoqoavideo2.sbs",
+      "name": "顶级国产",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://p12q09k.qoqoavideo2.xyz/vodtype/{cateId}-{catePg}/",
+        "分类": "中文字幕$154#国产情色$151#日本无码$162#动漫$150#国产传媒$146#少女萝莉$164"
+      },
+      "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
+    },
     {
       "key": "msv ",
       "name": "美少女 ",
@@ -131,21 +146,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_XYQHiker_顶级国产",
-      "name": "顶级国产",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://aoo.qoqoavideo2.sbs/vodtype/{cateId}/page/{catePg}.html",
-        "分类": "国产$20#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"
-      },
-      "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
     },
     {
       "key": "lf_js_search",
