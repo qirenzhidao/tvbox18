@@ -3,7 +3,7 @@
 "open_token":"",
 "thread_limit":32,
 "is_vip":true,
-"vip_thread_limit":10,
+"vip_thread_limit":1,
 "quark_thread_limit":32,
 "quark_is_vip":false,
 "quark_vip_thread_limit":16,
