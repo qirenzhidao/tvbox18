@@ -1,5 +1,5 @@
 {
-  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+  "spider": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
     {
@@ -16,7 +16,7 @@
         "分类url": "https://p12q09k.qoqoavideo2.xyz/vodtype/{cateId}/page/{catePg}.html",
         "分类": "中文字幕$154#国产情色$151#日本无码$162#动漫$150#国产传媒$146#少女萝莉$164"
       },
-      "jar": "./jar/xiaomi2.jar"
+      "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
     },
     {
       "key": "msv ",
@@ -656,7 +656,7 @@
   "rules": [
     {
       "hosts": [
-        "cdn.*.com",
+        "githubusercontent",
         ".*.*"
       ],
       "name": "proxy"
