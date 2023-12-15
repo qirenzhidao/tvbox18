@@ -1,6 +1,26 @@
 {
   "spider": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://fanty.run.goorm.site/live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "adult",
+      "type": 0,
+      "url": "./json/adult.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
     {
       "key": "aoo.qoqoavideo2.sbs",
