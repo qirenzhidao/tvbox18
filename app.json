@@ -11,14 +11,16 @@
       "filterable": 0
     },
     {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃已修复断流",
+      "key": "Wogg",
+      "name": "玩偶哥哥|阿里",
       "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
+      "api": "csp_Wogg",
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "jar": "./pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
+      "ext": "./pg/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"
     },
     {
       "key": "南瓜",
