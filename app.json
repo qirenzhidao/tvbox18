@@ -289,7 +289,7 @@
   "rules": [
     {
       "hosts": [
-        "cdn.*.com",
+        "githubusercontent",
         ".*.*"
       ],
       "name": "proxy"
