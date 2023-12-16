@@ -170,7 +170,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;1117603a248d03a2fba94c991612970f"
+      "jar": "./jar/fm_push.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9"
     },
     {
       "api": "csp_fan",
