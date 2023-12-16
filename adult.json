@@ -2,10 +2,19 @@
   "spider": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
   "lives": [
     {
+      "name": "adult_2023",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
       "name": "madou",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/madou.txt",
-      "playerType": 1,
+      "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
       "logo": ""
@@ -14,7 +23,7 @@
       "name": "18_adult",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/18_adult.txt",
-      "playerType": 1,
+      "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
       "logo": ""
@@ -23,16 +32,7 @@
       "name": "adult_2",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "name": "adult_2023",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
-      "playerType": 1,
+      "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
       "logo": ""
@@ -41,7 +41,7 @@
       "name": "adult",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt",
-      "playerType": 1,
+      "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
       "logo": ""
