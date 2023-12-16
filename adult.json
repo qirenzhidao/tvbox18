@@ -1,6 +1,5 @@
 {
   "spider": "./jar/fongmi.jar;md5;5931706b319f6cb041b667eeed890608",
-  "wallpaper": "https://jianbian.chuqiuyu.tk",
   "lives": [
     {
       "name": "live",
@@ -33,7 +32,7 @@
       "filterable": 1,
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://p12q09k.qoqoavideo2.xyz/vodtype/{cateId}/page/{catePg}.html",
+        "分类url": "https://w15o.qoqoavideo2.xyz/vodtype/{cateId}/page/{catePg}.html",
         "分类": "中文字幕$154#国产情色$151#日本无码$162#动漫$150#国产传媒$146#少女萝莉$164"
       },
       "jar": "./jar/xiaomi2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
