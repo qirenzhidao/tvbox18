@@ -19,7 +19,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 40,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.nogo.jar;md5;0164b1b05e35a5de041cda350912b5a5",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"
     },
     {
@@ -41,7 +41,7 @@
       "filterable": 1,
       "changeable": 1,
       "timeout": 60,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.nogo.jar;md5;0164b1b05e35a5de041cda350912b5a5",
       "ext": {
         "drives": [
           {
