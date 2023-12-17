@@ -49,6 +49,32 @@
   ],
   "sites": [
     {
+      "key": "AList",
+      "name": "💻超清4K",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": {
+        "drives": [
+          {
+            "name": "未成年🈲",
+            "search": true,
+            "searchable": true,
+            "server": "https://lala-ofbip.run.goorm.site"
+          },
+          {
+            "name": "超清4K💻",
+            "search": true,
+            "searchable": true,
+            "server": "https://movie.wangzm.tk"
+          }
+        ]
+      }
+    },
+    {
       "key": "aoo.qoqoavideo2.sbs",
       "name": "顶级国产",
       "type": 3,
