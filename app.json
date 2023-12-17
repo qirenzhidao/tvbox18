@@ -43,17 +43,20 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
+      "timeout": 60,
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
       "ext": {
         "drives": [
           {
-            "name": "超清4K",
+            "name": "超清4K💻",
             "search": true,
             "searchable": true,
-            "server": "http://movie.wangzm.tk"
+            "server": "https://movie.wangzm.tk"
           },
           {
             "name": "未成年🈲",
+            "search": true,
+            "searchable": true,
             "server": "https://lala-ofbip.run.goorm.site"
           }
         ]
