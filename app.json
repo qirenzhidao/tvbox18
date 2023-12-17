@@ -45,6 +45,12 @@
       "ext": {
         "drives": [
           {
+            "name": "自己搭建📡",
+            "search": true,
+            "searchable": true,
+            "server": "http://192.168.66.11:1234"
+          },
+          {
             "name": "超清4K💻",
             "search": true,
             "searchable": true,
