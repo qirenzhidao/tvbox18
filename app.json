@@ -44,7 +44,16 @@
       "filterable": 1,
       "changeable": 1,
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/js/alistjar.json"
+      "ext": {
+        "drives": [
+          {
+            "name": "超清4K",
+            "search": true,
+            "searchable": true,
+            "server": "http://movie.wangzm.tk"
+          }
+        ]
+      }
     },
     {
       "key": "橘子",
