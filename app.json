@@ -51,6 +51,10 @@
             "search": true,
             "searchable": true,
             "server": "http://movie.wangzm.tk"
+          },
+          {
+            "name": "未成年🈲",
+            "server": "https://lala-ofbip.run.goorm.site"
           }
         ]
       }

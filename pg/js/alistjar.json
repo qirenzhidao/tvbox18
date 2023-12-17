@@ -4,7 +4,7 @@
       "name": "超清4K",
       "search": true,
       "searchable": true,
-      "server": "http://movie.wangzm.tk"
+      "server": "http://192.168.66.11:1234"
     }
   ]
 }
