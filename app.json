@@ -19,18 +19,18 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 40,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"
     },
     {
-      "key": "九六",
-      "name": "🎀九六┃直连",
+      "key": "NanGua",
+      "name": "🍔南瓜|弹幕",
       "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
+      "api": "csp_NanGua",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
+      "ext": "null$$$1"
     },
     {
       "key": "AList",
