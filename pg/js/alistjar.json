@@ -1,7 +1,7 @@
 {
   "drives": [
     {
-      "name": "超清4K",
+      "name": "alist.jar",
       "search": true,
       "searchable": true,
       "server": "http://192.168.66.11:1234"
