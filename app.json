@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;b90b0b641f1e382073125f63f77bb9fe",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aeb168169682631c93874c9bd8a97e74",
   "sites": [
     {
       "key": "豆豆",
@@ -41,7 +41,7 @@
       "filterable": 1,
       "changeable": 1,
       "timeout": 60,
-      "jar": "./pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
+      "jar": "./pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
       "ext": {
         "drives": [
           {
