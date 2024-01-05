@@ -19,8 +19,8 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 40,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1"
+      "jar": "./pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
+      "ext": "./pg/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1"
     },
     {
       "key": "NanGua",
@@ -29,7 +29,7 @@
       "api": "csp_NanGua",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
+      "jar": "./pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
       "ext": "null$$$1"
     },
     {
@@ -41,7 +41,7 @@
       "filterable": 1,
       "changeable": 1,
       "timeout": 60,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
+      "jar": "./pg/pg.jar;md5;009cb0dbd9950c9795adc9825c8b747f",
       "ext": {
         "drives": [
           {
@@ -286,7 +286,7 @@
       "name": "直播",
       "playerType": 2,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt"
+      "url": "./json/adult.txt"
     }
   ],
   "rules": [
