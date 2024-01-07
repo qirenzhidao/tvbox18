@@ -19,8 +19,8 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 40,
-      "jar": "./pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
-      "ext": "./pg/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1"
+      "jar": "./pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
+      "ext": "./pg/lib/tokenm.json$$$https://wogg.xyz/|wogg.xyz$$$null$$$1$$$./lib/wogg.json"
     },
     {
       "key": "NanGua",
@@ -29,7 +29,7 @@
       "api": "csp_NanGua",
       "searchable": 1,
       "changeable": 1,
-      "jar": "./pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
+      "jar": "./pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
       "ext": "null$$$1"
     },
     {
@@ -41,7 +41,7 @@
       "filterable": 1,
       "changeable": 1,
       "timeout": 60,
-      "jar": "./pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
+      "jar": "./pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
       "ext": {
         "drives": [
           {
