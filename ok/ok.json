@@ -52,6 +52,7 @@
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "rules":[
+{"hosts": ["githubusercontent",".*.*"],"name": "proxy"},
 {"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","10.85"]},
 {"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},
 {"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
