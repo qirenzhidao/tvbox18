@@ -70,7 +70,7 @@
       "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
