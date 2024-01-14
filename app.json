@@ -11,18 +11,6 @@
       "filterable": 0
     },
     {
-      "key": "Wogg",
-      "name": "☁️阿里云盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 40,
-      "jar": "./pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
-      "ext": "./pg/lib/tokenm.json$$$https://wogg.xyz/|wogg.xyz$$$null$$$1$$$./lib/wogg.json"
-    },
-    {
       "key": "NanGua",
       "name": "🍔南瓜|弹幕",
       "type": 3,
@@ -64,6 +52,16 @@
           }
         ]
       }
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃4K弹幕不断流",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "南瓜",
