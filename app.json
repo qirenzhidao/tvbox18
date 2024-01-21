@@ -21,49 +21,6 @@
       "ext": "null$$$1"
     },
     {
-      "key": "AList",
-      "name": "💻超清4K",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "jar": "./pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
-      "ext": {
-        "drives": [
-          {
-            "name": "自己搭建📡",
-            "search": true,
-            "searchable": true,
-            "server": "http://192.168.66.11:1234"
-          },
-          {
-            "name": "超清4K💻",
-            "search": true,
-            "searchable": true,
-            "server": "http://movie.wangzm.tk"
-          },
-          {
-            "name": "未成年🈲",
-            "search": true,
-            "searchable": true,
-            "server": "https://lala-ofbip.run.goorm.site"
-          }
-        ]
-      }
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕不断流",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {
       "key": "南坊",
       "name": "☀南坊┃App",
       "type": 3,
@@ -276,16 +233,6 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
-    }
-  ],
-  "lives": [
-    {
-      "epg": "",
-      "logo": "",
-      "name": "直播",
-      "playerType": 2,
-      "type": 0,
-      "url": "./json/adult.txt"
     }
   ],
   "rules": [
