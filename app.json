@@ -217,42 +217,6 @@
       "type": 3
     }
   ],
-  "doh": [
-    {
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ],
-      "name": "Google",
-      "url": "https://dns.google/dns-query"
-    },
-    {
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ],
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query"
-    },
-    {
-      "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ],
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query"
-    },
-    {
-      "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
-      ],
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer"
-    }
-  ],
   "parses": [
     {
       "name": "聚合",
@@ -325,16 +289,53 @@
       }
     }
   ],
-  "rules": [
+  "doh": [
     {
-      "hosts": [
-        "githubusercontent",
-        ".*.*"
-      ],
-      "name": "proxy"
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
     },
     {
-      "name": "海外看",
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "hwk",
       "hosts": [
         "haiwaikan"
       ],
@@ -347,7 +348,17 @@
       ]
     },
     {
-      "name": "索尼",
+      "name": "yqk",
+      "hosts": [
+        "yqk88"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666"
+      ]
+    },
+    {
+      "name": "sn",
       "hosts": [
         "suonizy"
       ],
@@ -357,7 +368,7 @@
       ]
     },
     {
-      "name": "暴風",
+      "name": "bf",
       "hosts": [
         "bfzy"
       ],
@@ -366,7 +377,7 @@
       ]
     },
     {
-      "name": "星星",
+      "name": "xx",
       "hosts": [
         "aws.ulivetv.net"
       ],
@@ -375,10 +386,11 @@
       ]
     },
     {
-      "name": "量子",
+      "name": "lz",
       "hosts": [
         "vip.lz",
         "hd.lz",
+        "v.cdnlz1",
         "v.cdnlz"
       ],
       "regex": [
@@ -392,12 +404,11 @@
         "hd.ffzy"
       ],
       "regex": [
-        "25.0666",
-        "25.08"
+        "25.0666"
       ]
     },
     {
-      "name": "火山嗅探",
+      "name": "hs",
       "hosts": [
         "huoshan.com"
       ],
@@ -406,7 +417,7 @@
       ]
     },
     {
-      "name": "抖音嗅探",
+      "name": "dy",
       "hosts": [
         "douyin.com"
       ],
@@ -415,13 +426,44 @@
       ]
     },
     {
-      "name": "農民嗅探",
+      "name": "nm",
       "hosts": [
         "toutiaovod.com"
       ],
       "regex": [
         "video/tos/cn"
       ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "SAO0",
+      "type": 0,
+      "url": "https://xhdwc.tk/tvlive.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
