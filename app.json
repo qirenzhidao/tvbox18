@@ -81,16 +81,6 @@
       "changeable": 1
     },
     {
-      "key": "九六",
-      "name": "🎀九六┃直连",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Lib",
       "name": "🌟利播┃直连",
       "type": 3,
