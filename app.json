@@ -75,6 +75,9 @@
       "name": "💥追剧┃App",
       "type": 3,
       "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "playerType": 2,
       "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
     },
