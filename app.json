@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709930083738/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
   "sites": [
     {
       "key": "豆豆",
@@ -76,27 +76,6 @@
       "ext": "https://auete.pro/"
     },
     {
-      "key": "萌米",
-      "name": "👀萌米┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "追剧",
-      "name": "💥追剧┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
-    },
-    {
       "key": "南瓜",
       "name": "🎃南瓜┃App",
       "type": 3,
@@ -106,6 +85,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "新星",
+      "name": "💥新星┃App",
+      "type": 1,
+      "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+      "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "萌米",
+      "name": "👀萌米┃App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
       "key": "一起看 ",
