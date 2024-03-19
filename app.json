@@ -80,7 +80,6 @@
       "name": "🍎小苹果┃复活",
       "type": 3,
       "api": "csp_LiteApple",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
