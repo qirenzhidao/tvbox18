@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711726710301/fan.txt;md5;a94015e02cd9886492add6f9b1705dba",
   "sites": [
     {
       "key": "豆豆",
@@ -32,17 +32,6 @@
       "ext": "https://www.80yy3.com/"
     },
     {
-      "key": "毛驴",
-      "name": "🍓毛驴┃直连",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
       "key": "csp_Nmys",
       "name": "🌾农民┃直连",
       "type": 3,
@@ -52,6 +41,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
+    {
+      "key": "毛驴",
+      "name": "🍓毛驴┃直连",
+      "type": 3,
+      "api": "csp_MLYS",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
     },
     {
       "key": "Lib",
@@ -77,7 +77,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎小苹果┃复活",
+      "name": "🍎苹果┃无广",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
