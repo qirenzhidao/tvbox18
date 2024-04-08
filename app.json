@@ -174,78 +174,6 @@
       "type": 3
     }
   ],
-  "parses": [
-    {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "神秘的哥哥们",
-      "type": 1,
-      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "免费分享",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    }
-  ],
   "doh": [
     {
       "name": "Google",
@@ -292,26 +220,26 @@
   ],
   "rules": [
     {
-      "name": "hwk",
+      "name": "kk",
       "hosts": [
-        "haiwaikan"
+        "kuaikan"
       ],
       "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "10.85"
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
       ]
     },
     {
       "name": "yqk",
       "hosts": [
-        "yqk88"
+        "yqk"
       ],
       "regex": [
         "18.4",
-        "15.1666"
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
       ]
     },
     {
@@ -320,8 +248,11 @@
         "suonizy"
       ],
       "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
         "15.1666",
-        "15.2666"
+        "15.2666",
+        "16.3333",
+        "15.266667"
       ]
     },
     {
@@ -347,21 +278,28 @@
       "hosts": [
         "vip.lz",
         "hd.lz",
-        "v.cdnlz1",
-        "v.cdnlz"
+        "v.cdnlz",
+        "yzzy1.play"
       ],
       "regex": [
-        "18.5333"
+        "18.5333",
+        "19.52",
+        "18.6666"
       ]
     },
     {
-      "name": "非凡",
+      "name": "ff",
       "hosts": [
         "vip.ffzy",
-        "hd.ffzy"
+        "hd.ffzy",
+        "ffzy"
       ],
       "regex": [
-        "25.0666"
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
       ]
     },
     {
@@ -405,19 +343,19 @@
   ],
   "lives": [
     {
-      "name": "多线ITV",
+      "name": "ITV",
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
       "playerType": 1
     },
     {
-      "name": "高速V6",
+      "name": "IPV6",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
-      "name": "嗅探",
+      "name": "XIUTAN",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
       "url": "https://xhdwc.tk/xiutan.m3u"
