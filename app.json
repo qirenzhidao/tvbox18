@@ -2,6 +2,27 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
 "sites":[
 {"key":"豆豆","name":"🌕豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{
+      "key": "AList",
+      "name": "💻超清4K",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "jar": "./pg/pg.jar;md5;b44eb2976831dde82168091e8c3a6967",
+      "ext": {
+        "drives": [
+          {
+            "name": "超清4K💻",
+            "search": true,
+            "searchable": true,
+            "server": "http://tptpwhc.tpddns.cn:1234"
+          }
+        ]
+      }
+    },
 	 {
             "key":"NanGua",
             "name":"🍔南瓜|弹幕",
