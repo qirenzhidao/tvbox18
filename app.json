@@ -211,6 +211,13 @@
   ],
   "rules": [
     {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "youtube"
+      ]
+    },
+    {
       "name": "kk",
       "hosts": [
         "kuaikan"
