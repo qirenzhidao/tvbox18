@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715881821088/fan.txt;md5;a4def97541fafa5558b6182c1326c9b0",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715958076035/fan.txt;md5;bca39702707242417736e01c9f4d0d07",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -11,7 +11,7 @@
 {"key":"视觉","name":"👓视觉┃多线","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
 
 
@@ -28,7 +28,7 @@
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 
 
-{"key":"Lib","name": "🌟立播┃无广","type": 3,"api": "csp_Libvio","timeout":15,"searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pw/"},
+{"key":"Lib","name": "🌟立播┃不卡","type": 3,"api": "csp_Libvio","timeout":15,"searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pw/"},
 {"key":"Auete","name":"🏝奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"}, 
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
 
