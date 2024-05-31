@@ -11,25 +11,34 @@
       "filterable": 0
     },
     {
-      "key": "AList",
-      "name": "💻超清4K",
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_Kkys",
+      "timeout": 15,
       "searchable": 1,
-      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍙糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "timeout": 60,
-      "jar": "./pg/pg.jar;md5;f565a30b771f9b53e146226bd94a97c1",
-      "ext": {
-        "drives": [
-          {
-            "name": "超清4K💻",
-            "search": true,
-            "searchable": true,
-            "server": "http://tptpwhc.tpddns.cn:1234"
-          }
-        ]
-      }
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "原创",
