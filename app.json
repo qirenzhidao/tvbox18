@@ -11,6 +11,15 @@
       "filterable": 0
     },
     {
+      "key": "獨播",
+      "name": "獨播",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./json/duboku.json$$$http://192.168.66.3:7890"
+    },
+    {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
