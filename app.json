@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717572233059/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
   "sites": [
     {
       "key": "豆豆",
@@ -29,17 +29,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "糯米",
-      "name": "🍙糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
     },
     {
       "key": "比特",
@@ -105,6 +94,16 @@
       "ext": "https://www.80yy3.com/"
     },
     {
+      "key": "蛋蛋",
+      "name": "🍓蛋蛋┃多线",
+      "type": 3,
+      "api": "csp_Cddys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "小点",
       "name": "💥小点┃多线",
       "type": 3,
@@ -136,17 +135,6 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃多线",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "可可",
       "name": "👻可可┃多线",
       "type": 3,
@@ -158,15 +146,15 @@
       "changeable": 1
     },
     {
-      "key": "毛驴",
-      "name": "🍓毛驴┃多线",
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
       "type": 3,
-      "api": "csp_MLYS",
+      "api": "csp_NanGua",
       "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
+      "changeable": 1
     },
     {
       "key": "Auete",
