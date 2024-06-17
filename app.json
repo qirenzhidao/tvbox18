@@ -18,7 +18,7 @@
       "searchable": 1,
       "changeable": 0,
       "jar": "./jar/pg.jar;md5;fd68da7454ada7e4783a267e7a9903c5",
-      "ext": "./json/duboku.json$$$http://192.168.66.3:7890"
+      "ext": "./json/duboku.json$$$proxy"
     },
     {
       "key": "酷看",
