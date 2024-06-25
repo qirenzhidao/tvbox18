@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719231697644/fan.txt;md5;19835343a0066e1836802cdfaacb962f",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719265010033/fan.txt;md5;a610e504d51ef5a186ffb53c7c8072ac",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -8,8 +8,8 @@
 {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"Zx4k","name":"🚝专线┃秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
+{"key":"Zx4k","name":"🚝专线┃秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},

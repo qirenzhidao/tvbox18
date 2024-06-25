@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719231697644/fan.txt;md5;19835343a0066e1836802cdfaacb962f",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719265010033/fan.txt;md5;a610e504d51ef5a186ffb53c7c8072ac",
   "sites": [
     {
       "key": "豆豆",
@@ -31,17 +31,6 @@
       "changeable": 1
     },
     {
-      "key": "Zx4k",
-      "name": "🚝专线┃秒播",
-      "type": 3,
-      "api": "csp_Zx4k",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Lib",
       "name": "🌟立播┃秒播",
       "type": 3,
@@ -53,6 +42,17 @@
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
+    },
+    {
+      "key": "Zx4k",
+      "name": "🚝专线┃秒播",
+      "type": 3,
+      "api": "csp_Zx4k",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "文采",
