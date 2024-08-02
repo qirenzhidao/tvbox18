@@ -1,9 +1,9 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722488822301/fan.txt;md5;c1f397cad87b1e7ba161d93d7e0fbf85",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722550044078/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-{"key":"豆豆","name":"全接口智能过滤广告","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"豆豆","name":"非会员阿狸原提速","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
