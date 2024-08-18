@@ -65,17 +65,6 @@
       "changeable": 1
     },
     {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
       "type": 3,
@@ -95,6 +84,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czys.pro/"
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "煤球",
