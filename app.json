@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724591087642/fan.txt;md5;5f4edf28f8ec1b165b962e9888dc497c",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
   "sites": [
     {
       "key": "豆豆",
@@ -75,42 +75,24 @@
       "ext": "https://www.czys.pro/"
     },
     {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czys.pro/"
+    },
+    {
       "key": "原创",
       "name": "☀原创┃不卡",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
       "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "小点",
-      "name": "💥小点┃多线",
-      "type": 3,
-      "api": "csp_Appxd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
-    },
-    {
-      "key": "煤球",
-      "name": "🍓煤球┃多线",
-      "type": 3,
-      "api": "csp_Appmq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "可可",
-      "name": "👻可可┃多线",
-      "type": 3,
-      "api": "csp_Kekys",
-      "timeout": 15,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -128,6 +110,14 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
+      "key": "追剧",
+      "name": "🍓追剧┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+    {
       "key": "萌米",
       "name": "👀萌米┃多线",
       "type": 3,
@@ -141,6 +131,27 @@
       "name": "🎃南瓜┃多线",
       "type": 3,
       "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "小点",
+      "name": "💥小点┃多线",
+      "type": 3,
+      "api": "csp_Appxd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
+    },
+    {
+      "key": "可可",
+      "name": "👻可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
