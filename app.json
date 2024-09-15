@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726341831430/fan.txt;md5;898ae43d224f936c7da77c375cd68284",
   "sites": [
     {
       "key": "豆豆",
@@ -44,11 +44,20 @@
       "changeable": 1
     },
     {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
       "type": 3,
-      "api": "csp_Kkys",
+      "api": "csp_Nmyswv",
       "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -98,14 +107,6 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
-      "key": "追剧",
-      "name": "🍓追剧┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-    },
-    {
       "key": "萌米",
       "name": "👀萌米┃多线",
       "type": 3,
@@ -126,6 +127,16 @@
       "changeable": 1
     },
     {
+      "key": "樱花",
+      "name": "💥樱花┃多线",
+      "type": 3,
+      "api": "csp_Yh007",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "可可",
       "name": "👻可可┃多线",
       "type": 3,
@@ -135,16 +146,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "小点",
-      "name": "💥小点┃多线",
-      "type": 3,
-      "api": "csp_Appxd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
     },
     {
       "key": "Auete",
