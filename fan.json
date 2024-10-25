@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729628389538/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729862207692/fan.txt;md5;60a3360b14342bcef043a0d0209c8394",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -65,6 +65,9 @@
 
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
-{"name":"LIVE","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"IPV6","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1 }]
+{"name":"IPV4","type":0,"url":"https://gitlab.com/fantaiying/ext/-/raw/main/id.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"IPV6①","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"IPV6②","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","playerType":2 }
+]
 }
