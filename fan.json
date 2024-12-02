@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732870410650/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733131789935/fan.txt;md5;99b6c138ce197b9cd89ccf9dc26a37bc",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -23,7 +23,7 @@
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"},
+{"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"},
 {"key":"Auete","name":"🏝奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"}, 
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
 {"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
@@ -32,29 +32,31 @@
 
 {"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"310js","name":"⚽ 310┃看球","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"}},
-{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"310js","name":"⚽ 310┃看球","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"}},
+{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 
 {"key":"PanSso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_xzso","searchable": 1,"quickSearch": 1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"米搜","name":"🦋米搜┃夸父","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_Aliso","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
-{"key":"Bili","name":"🅱哔哔合集┃弹幕","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/bilibili.json"}},
-{"key":"Biliych","name":"🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"}},
-{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"}},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"}},
-{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"}},
+{"key":"Bili","name":"🅱哔哔合集┃弹幕","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/bilibili.json"}},
+{"key":"Biliych","name":"🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"}},
+{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"}},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"}},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"}},
 {"key":"fan","name":"导航 www.饭太硬.com","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 ],
@@ -62,8 +64,8 @@
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
 {"name":"牛播一(新版影视仓/ok影视)","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},
-{"name":"IPV4","type":0,"url":"https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"IPV6①","type":0,"url":"https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
-{"name":"IPV6②","type":0,"url":"https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"}
+{"name":"IPV4","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"IPV6①","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
+{"name":"IPV6②","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u","playerType":1,"logo": "https://live.fanmingming.com/tv/{name}.png"}
 ]
 }
