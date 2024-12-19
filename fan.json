@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt;md5;c76ccccc921e555436828a86ed604fc1",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734602329530/fan.txt;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -63,9 +63,9 @@
 
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
-{"name":"牛播一（新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
-{"name":"IPV4","type":0,"url":"https://raw.gitmirror.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt","playerType":1,"logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
-{"name":"IPV6①","type":0,"url":"https://ghproxy.cn/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
+{"name":"牛播一（新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"},
+{"name":"IPV4","type":0,"url":"https://raw.gitmirror.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt","playerType":1,"logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+{"name":"IPV6①","type":0,"url":"https://ghproxy.cn/http://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u","playerType":1},
 {"name":"平台直播","type":0,"url":"http://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2 }
 ]
 }
