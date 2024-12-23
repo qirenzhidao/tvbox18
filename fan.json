@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -13,6 +13,7 @@
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+{"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
@@ -32,7 +33,6 @@
 
 {"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"310js","name":"⚽ 310┃看球","type":3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"}},
@@ -46,7 +46,7 @@
 {"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_xzso","searchable": 1,"quickSearch": 1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"米搜","name":"🦋米搜┃夸父","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_Aliso","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 

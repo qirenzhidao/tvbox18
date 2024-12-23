@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
   "sites": [
     {
       "key": "豆豆",
@@ -62,6 +62,15 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "苹果",
