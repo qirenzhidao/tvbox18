@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt;md5;fcd3be29030c912a28d7a205a88f749d",
   "sites": [
     {
       "key": "豆豆",
@@ -114,16 +114,6 @@
       "ext": "https://www.czzyvideo.com/"
     },
     {
-      "key": "AppSj",
-      "name": "👒视界┃多线",
-      "type": 3,
-      "api": "csp_AppSj",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "木星",
       "name": "🌞木星┃多线",
       "type": 3,
@@ -165,16 +155,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-    },
-    {
-      "key": "可可",
-      "name": "👻可可┃多线",
-      "type": 3,
-      "api": "csp_Kekys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "Auete",
