@@ -1,70 +1,497 @@
-{
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt;md5;fcd3be29030c912a28d7a205a88f749d",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+<!DOCTYPE html><!-- This web page is copied by "https://bazhan.wang" --><html lang="en"><head><meta name="360-analysis-id" content="1k1c1k1e39331c2v"><meta charset="utf-8"><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    <link rel="shortcut icon" type="image/x-icon" href="z/favicon.ico">
+    <title>饭太硬 | 导航</title>
+    <meta name="description" content="饭太硬的自留地">
+    <meta name="keywords" content="饭太硬">
+    <link rel="stylesheet" type="text/css" href="z/css/h.9c69ed6c.css">
+    <link rel="stylesheet" type="text/css" href="z/css/nekotora.99cf6f8c.css">
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137340638-1" type="a22fe35973ad865400bcdf59-text/javascript"></script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
+    <script type="a22fe35973ad865400bcdf59-text/javascript">function a() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], a("js", new Date), a("config", "UA-137340638-1");</script>
+  <head>
+  <meta  charset=utf-8"/>
+      <style>
+          mark {
+              background-color:#CCCCCC; font-weight:bold;
+          }
+      </style>  
+<style>
+    .toast-bottom-center {
+        position: absolute;
+        left: 30px;
+        right: 10px;
+        top: 20px;
+    }
+</style><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫--></head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3NF90DWZG8" type="a22fe35973ad865400bcdf59-text/javascript"></script>
+<script type="a22fe35973ad865400bcdf59-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-"sites":[
-{"key":"豆","name":"哥哥们祝大家新春快乐🧧","type": 3, "api": "csp_DouDou","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
-{"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
-{"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"api":"csp_JPJ","playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
-{"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"},
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-{"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
-{"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
-{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
-{"key":"Auete","name":"🏝奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"}, 
-{"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/"},
-{"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
+  gtag('config', 'G-3NF90DWZG8');
+</script>
 
-{"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"}},
-{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
+<body><div class="background">
+    <canvas id="startrack"></canvas>
+    <div class="cover"></div>
+</div>
+<div class="main">
+    <div class="ch intro">
+        <div class="container">
+            <div class="hello">
+                <h1 id="slogan">Hi~</h1>
+                <!--随机文字信息在\js\page.3a0791a3.js中修改-->
+                <h2>
+                    <div class="circle"> <span></span> <span></span>
+                        <span></span>
+                    </div> 饭
+                </h2>
+            </div>
+        </div>
+    </div>
 
-{"key":"PanSso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_xzso","searchable": 1,"quickSearch": 1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"米搜","name":"🦋米搜┃夸父","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+    <div class="find ch">
+        <div class="container links">
+            <h2 class="chtitle">TVbox <span>接口（点击复制）</span></h2>
+            <div class="clear col-3">
 
-{"key":"Bili","name":"🅱哔哔合集┃弹幕","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"}},
-{"key":"Biliych","name":"🅱哔哔演唱会┃弹幕","type": 3,"api": "csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},
-{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"}},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"}},
-{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"}},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}},
-{"key":"fan","name":"导航 www.饭太硬.com","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0},
-{"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
-],
+                <div class="item">
+                    <div class="bg" style="background-color:#28a9e0"></div>
+                    <div class="inner copy-btn" id="yunxing" data-clipboard-text="http://www.饭太硬.com/tv/">
+                        <span>饭太硬</span>
+                    </div>
+                </div>      
+                <div class="item">
+                    <div class="bg" style="background-color:#F7DC6F"></div>
+                    <div class="inner copy-btn" id="yunxing" data-clipboard-text="https://mpanso.me/DEMO.json">
+                        <span>小米</span>
+                    </div>
+                </div>      
+                
+                <div class="item">
+                    <div class="bg" style="background-color:#c4e00f"></div>
+                    <div class="inner copy-btn" id="junyu" data-clipboard-text="http://tvbox.xn--4kq62z5rby2qupq9ub.top/">
+                        <span>王二小</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#5499C7"></div>
+                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="https://100km.top/0"> 
+                           <span>纯一骚零</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="bg" style="background-color:#1ba050"></div>
+                    <div class="inner copy-btn" id="tangsan" data-clipboard-text="http://ok321.top/tv">
+                        <span>OK屌炸天 </span>
+                    </div>
+                </div>   
+                <div class="item">
+                    <div class="bg" style="background-color:#1f3cfb"></div>
+                    <div class="inner copy-btn" id="qiaoer" data-clipboard-text="http://cdn.qiaoji8.com/tvbox.json">
+                        <span>巧技</span>
+                    </div>
+                </div>
+                  <div class="item">
+                    <div class="bg" style="background-color:#d50cf0"></div>
+                    <div class="inner copy-btn" id="yunxing" data-clipboard-text="https://d.kstore.dev/download/7213/吃猫的鱼">
+                        <span>吃猫的鱼</span>
+                    </div>
+                </div>                
+                <div class="item">
+                    <div class="bg" style="background-color:#0ff9ca"></div>
+                    <div class="inner copy-btn" id="cainisi" data-clipboard-text="https://tv.xn--yhqu5zs87a.top">
+                        <span>菜妮丝 XBPQ</span>
+                    </div>
+                </div>
+<!--                 <div class="item">
+                    <div class="bg" style="background-color:#2ECC71"></div>
+                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"> 
+                           <span>PG one</span>
+                    </div>
+                </div>     
+                <div class="item">
+                    <div class="bg" style="background-color:#680fe4"></div>
+                    <div class="inner copy-btn" id="feimao" data-clipboard-text="https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json">                       <span>高天流云 js</span>
+                  </div>
+                </div>
+                  <div class="item">
+                    <div class="bg" style="background-color:#f30b0b"></div>
+                    <div class="inner copy-btn" id="shenqi" data-clipboard-text="https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json">
+                        <span>香雅情 XYQ</span>
+                    </div>
+                </div>-->
+                  <div class="item">
+                    <div class="bg" style="background-color:#E74C3C"></div>
+                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="http://肥猫.live"> 
+                           <span>肥猫</span>
+                    </div>
+                </div> 
+                 <div class="item">
+                    <div class="bg" style="background-color:#7F8C8D"></div>
+                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"> 
+                           <span>南风</span>
+                    </div>
+                </div>      
+                 <div class="item">
+                    <div class="bg" style="background-color:#5d4106"></div>
+                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="http://bp.tvbox.cam/"> 
+                           <span>小白</span>
+                    </div>
+                </div>    
+                   <div class="item">
+                    <div class="bg" style="background-color:#2ECC71"></div>
+                    <div class="inner copy-btn" id="xiaoya" data-clipboard-text="http://tv.nxog.top/m/"> 
+                           <span>讴歌</span>
+                    </div>
+                </div>     
 
-"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif",
-"lives":[
-{"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
-{"name":"咕咕咕","type":0,"url":"https://www.freetv.top/migu.m3u","playerType":1},
-{"name":"范明明","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
-{"name":"平台直播","type":0,"url":"http://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2 }
-]
-}
+            </div>
+        </div>
+    </div>
+
+    <div class="gate ch">
+        <div class="container links">
+            <h2 class="chtitle">开源壳子 <span>TVbox相关免费资源推荐</span></h2>
+            <div class="clear col-3">
+                <a href="https://t.me/TVBoxxoo/27464" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/Telegram_2019_Logo.svg.md.png"> </div>
+                        <div class="inner">
+                            <h5>Box醒人室</h5>
+                            <p>饭太硬分享交流群！大伙们分享交流！来交个朋友吧~</p>
+                        </div>
+                    </div>
+                </a>
+              <a href="https://mp.weixin.qq.com/s/e8IHh__L4gXJ5cKUY72HCQ" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2024/11/06/14281e4fd77c9a4844353b6b57b7ea10.png"> </div>
+                        <div class="inner">
+                            <h5>饭太硬公众号</h5>
+                            <p>微信公众号搜索【神秘的哥哥们】</p>
+                        </div>
+                    </div>
+                </a>
+                 <a href="https://www.wogg.net/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/WoGG.png">
+                        </div>
+                        <div class="inner">
+                            <h5>玩偶哥哥</h5>
+                            <p>网盘资源分享站，资源已对接，快来分享吧</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://mp.weixin.qq.com/s/IZTP79wLBY0E3-p3PHoVYg" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="http://wx.qlogo.cn/mmhead/Q3auHgzwzM7w6icJAxkRoPrZ2gIyUzXO6ZduLmEEYYB7flYen0KLF1A/0"> </div>
+                        <div class="inner">
+                            <h5>叨观荐影</h5>
+                            <p>哥哥们的防失联公众号，日常推介玩偶哥哥新片，关注下呗</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://store.yuanapp.fun" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2024/07/24/2a063cc4a81b5a8bea5ab8dc3f3cc919.jpeg"> </div>
+                        <div class="inner">
+                            <h5>神秘的鱼哥小店</h5>
+                            <p>苹果P12证书，带推送健康等所有权限，一年内掉了无限补</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://span.shubao.site/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/LOGOshangui.png"> </div>
+                        <div class="inner">
+                            <h5>舒宝资源盘</h5>
+                            <p>L先生的ALIST资源软件分享盘</p>
+                        </div>
+                    </div>
+                </a> 
+                
+                <a href="https://qiqi2020.lanzoue.com/b09svqv1c" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/31/photo_2023-07-31_20-21-18.md.jpeg">
+                        </div>
+                        <div class="inner">
+                            <h5>TVBox软件下载</h5>
+                            <p>奇奇持续更新分享各种BOX改版</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="http://www.饭太硬.com/jm/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/jm.jpeg">
+                        </div>
+                        <div class="inner">
+                            <h5>TVbox加密接口解密</h5>
+                            <p>通通能解，可用于解密各种网络加密接口</p>
+                        </div>
+                    </div>
+                </a>
+                
+              <a href="https://tv.cctv.com/live/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2024/11/06/a1631bcdf8e7e79cf31e19d44c1e3025.jpg">
+                        </div>
+                        <div class="inner">
+                            <h5>直播大全</h5>
+                            <p>CCTV直播大全</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://xiaomark.com/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/td.png">
+                        </div>
+                        <div class="inner">
+                            <h5>太短</h5>
+                            <p>缩短链接，屌！也不是很短~</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://gh.xxooo.cf/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/tk.png"> </div>
+                        <div class="inner">
+                            <h5>太快</h5>
+                            <p>GitHub 文件加速</p>
+                        </div>
+                    </div>
+                </a>
+                 <a href="http://z.qiqiv.cn/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/tnb.png">
+                        </div>
+                        <div class="inner">
+                            <h5>太能编</h5>
+                            <p>接口配置编辑器，支持加解密</p>
+                        </div>
+                    </div>
+                </a>
+                
+                 <a href="https://github.com/FongMi/TV" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/ystv.md.png">
+                        </div>
+                        <div class="inner">
+                            <h5>影视TV 开源仓库</h5>
+                            <p>台湾活雷锋FongMI开发，免费简洁强大的自动更新播放器</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://t.me/tvb_ys" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/ystv.md.png">
+                        </div>
+                        <div class="inner">
+                            <h5>影视TV 发布频道</h5>
+                            <p>片头片尾快捷标记，最新EXO支持软硬解，无缝换线路换源</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://github.com/q215613905/TVBoxOS" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/tvb.png">
+                        </div>
+                        <div class="inner">
+                            <h5>俊于 开源仓库</h5>
+                            <p>Tvbox源码加更，免费，延续官仓风格的版本</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://t.me/TVBoxOSC" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/tvb.png">
+                        </div>
+                        <div class="inner">
+                            <h5>俊于版 发布频道</h5>
+                            <p>其中的 #q215613905版本</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://github.com/takagen99/Box" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/taka.md.png">
+                        </div>
+                        <div class="inner">
+                            <h5>takagen99 开源仓库</h5>
+                            <p>也是基于Tvbox官仓源码开发，美化UI，支持webdav</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://t.me/TVBoxOSC" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/taka.md.png">
+                        </div>
+                        <div class="inner">
+                            <h5>takagen99 发布频道</h5>
+                            <p>其中的 #takagen99</p>
+                        </div>
+                    </div>
+                </a>
+                 <a href="https://pd.qq.com/s/208da3cbs" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/ysc.png">
+                        </div>
+                        <div class="inner">
+                            <h5>影视仓 发布频道</h5>
+                            <p>Tvbox源码二开，支持多仓订阅，投屏，升级阿里播放器</p>
+                        </div>
+                    </div>
+                </a>
+                 <a href="https://t.me/bh_tvbox" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/bh.md.jpeg">
+                        </div>
+                        <div class="inner">
+                            <h5>宝盒 发布频道</h5>
+                            <p>Tvbox源码二开，美化UI，自动换源，支持多订阅</p>
+                        </div>
+                    </div>
+                </a>
+                 <a href="https://t.me/yishij" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/12/14/7db8529ba1ecd7c3d4a0422c1f3d6b19.md.jpeg">
+                        </div>
+                        <div class="inner">
+                            <h5>影迷 发布频道</h5>
+                            <p>Tvbox源码二开，手机竖屏版，UI新颖，功能不断进化中</p>
+                        </div>
+                    </div>
+                </a>
+                 
+                 <a href="https://mp.weixin.qq.com/s/_jXJyOD54WKdNKi3axjq9A" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/tvfan.jpeg">
+                        </div>
+                        <div class="inner">
+                            <h5>TVbox本地包频道</h5>
+                            <p>专业本地化配置包，可于影视TV和TVbox等空壳直接食用</p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://t.me/xiaoyaliu00" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/xiaoya.md.jpeg">
+                        </div>
+                        <div class="inner">
+                            <h5>小雅alist群</h5>
+                            <p>小雅教你docker部署alist，打造自己的4K私人片库</p>
+                        </div>
+                    </div>
+                </a>
+                 
+            <a href="https://github.com/hjdhnx/dr_py" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/daoz.png">
+                        </div>
+                        <div class="inner">
+                            <h5>道长DRPY项目</h5>
+                            <p>可直接用于影视TV和TVbox软件数据源使用</p>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="https://my.ksust.com/kstore.htm?aff=7212" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://my.ksust.com/upload/avatar/000/1.png?1577675522">
+                        </div>
+                        <div class="inner">
+                            <h5>凯速直链文件存储</h5>
+                            <p>稳定速度快，个人私用接口托管足够了~</p>
+                        </div>
+                    </div>
+                </a>
+                
+                <a href="https://adzhp.xyz/" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://adzhp.xyz/wp-content/uploads/2019/02/A.png"> </div>
+                        <div class="inner">
+                            <h5>爱达杂货铺</h5>
+                            <p>收集那些有用的东西</p>
+                        </div>
+                    </div>
+                </a>
+                 
+                <a href="http://www.foodieguide.com/iptvsearch/?s=" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/iptv.png">
+                        </div>
+                        <div class="inner">
+                            <h5>直播源搜索引擎</h5>
+                            <p>国内外电视直播源搜索，m3u8、flv、rtsp……</p>
+                        </div>
+                    </div>
+                </a> 
+                 <a href="https://guihet.com/tvlistconvert.html#zbyjg" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/zbzh.webp">
+                        </div>
+                        <div class="inner">
+                            <h5>直播源格式转换</h5>
+                            <p>直播源格式在线转换工具</p>
+                        </div>
+                    </div>
+                </a> 
+              <a href="https://my.henghost.com/aff.php?aff=8889" target="_blank">
+                    <div class="item">
+                        <div class="avatar"> <img src="https://s1.imagehub.cc/images/2023/07/01/hckj.jpeg">
+                        </div>
+                        <div class="inner">
+                            <h5>恒创科技</h5>
+                            <p>高速免备案,香港日本特价机器一年200多,本站托管服务商</p>
+                        </div>
+                    </div>
+                </a> 
+                
+            </div>
+            <!--底部波浪-->
+            <div id="hans-bolang"></div><script src="https://api.vvhan.com/api/script/bolang" type="a22fe35973ad865400bcdf59-text/javascript"></script>
+        </div>
+        <div class="push"></div><!--push在此为footer占位，高度和footer的一样-->
+         </div>
+        <div class="footer ch">
+            <div class="container">
+                <h4>© 2023 Powered by 饭</h4>
+                <a target="_blank" href="http://my.henghost.com/aff.php?aff=8889" title="本网站托管于 恒创科技 " alt="本网站托管于 恒创科技">本网站托管于 <mark>恒创科技</mark></a>
+            </div>
+        </div>
+    </div>
+
+    <script src="z/js/page.3a0791a3.js" type="a22fe35973ad865400bcdf59-text/javascript"></script>
+    <!--以下为点击复制调用js-->
+    <script src="z/js/jquery.min.js" type="a22fe35973ad865400bcdf59-text/javascript"></script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
+    <script src="z/js/clipboard.min.js" type="a22fe35973ad865400bcdf59-text/javascript"></script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
+    <script type="a22fe35973ad865400bcdf59-text/javascript">
+        $('.copy-btn').click(function () {
+            let id = $(this).attr('id')
+            copy('#' + id)
+        })
+        function copy(id) {
+            let clipboard = new ClipboardJS(id);
+            clipboard.on('success', function (e) {
+                console.log(e);
+                alert('复制成功，请前往壳设置里粘贴接口')
+                clipboard.destroy();//解决多次弹窗问题
+            });
+            clipboard.on('error', function (e) {
+                console.log(e);
+                alert('请重新复制')
+                clipboard.destroy();//解决多次弹窗问题
+            });
+        }
+    </script><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
+
+</div>
+<!--雪花API-->
+<!--<script src="https://api111.vvhan.com/api/script/snow"></script>-->
+
+
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="a22fe35973ad865400bcdf59-|49" defer></script></body></html><!--!‫‭‬‫‬‪‫‭‬‫‬‬‭‫‭‭‪‭‫‬‪‬‏‫-->
