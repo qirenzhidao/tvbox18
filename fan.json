@@ -1,9 +1,9 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738479478359/f0202.txt;md5;9dbf4e8b686d614d5d6ae609347742ab",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738768091011/f0205.txt;md5;ad78b4faab7cdba15adfe5835fec71fe",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-{"key":"豆豆","name":"获取新接口：神秘的哥哥们","type": 3, "api": "csp_DouDou","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"豆豆","name":"备用公众号【叨观荐影】","type": 3, "api": "csp_DouDou","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
@@ -65,7 +65,6 @@
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif",
 "lives":[
 {"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
-{"name":"咕咕咕","type":0,"url":"https://www.freetv.top/migu.m3u","playerType":1},
 {"name":"范明明","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":1},
 {"name":"平台直播","type":0,"url":"http://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2 }
 ]
