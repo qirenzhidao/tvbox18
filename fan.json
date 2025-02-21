@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739954396935/f0219.txt;md5;ba35fb2f0e67c77dce39098d79093a8e",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
@@ -13,13 +13,13 @@
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"港迷","name":"💯港迷┃粤语","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"filterable":1,"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"},
+{"key":"兄弟","name":"🍊兄弟┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"filterable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="},
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},

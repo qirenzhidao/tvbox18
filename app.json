@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739954396935/f0219.txt;md5;ba35fb2f0e67c77dce39098d79093a8e",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3",
   "sites": [
     {
       "key": "豆豆",
@@ -25,6 +25,16 @@
       "name": "🍓糯米┃秒播",
       "type": 3,
       "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "白白",
+      "name": "🐟白白┃秒播",
+      "type": 3,
+      "api": "csp_Sbaibai",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -58,16 +68,6 @@
       "name": "🍄比特┃秒播",
       "type": 3,
       "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "白白",
-      "name": "🐟白白┃秒播",
-      "type": 3,
-      "api": "csp_Sbaibai",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -112,6 +112,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzyvideo.com/"
+    },
+    {
+      "key": "兄弟",
+      "name": "🍊兄弟┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="
     },
     {
       "key": "南瓜",
