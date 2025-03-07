@@ -177,16 +177,6 @@
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
     {
-      "key": "可可",
-      "name": "👻可可┃多线",
-      "type": 3,
-      "api": "csp_KekysGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "奥特",
       "name": "🏝奥特┃多线",
       "type": 3,
